@@ -1,0 +1,36 @@
+pipeline:
+  deploy_prod:
+    image: appleboy/drone-ssh
+    host: 209.97.176.53
+    secrets: [ ssh_username, ssh_password ]
+    port: 22
+    command_timeout: 300
+    script:
+      - cd /var/www/html/alldayhr/alldayhr.com/recruit  && git pull origin  master && composer update && php artisan migrate
+    when:
+      event: tag
+
+  deploy_staging:
+    image: appleboy/drone-ssh
+    host: 209.97.176.53
+    secrets: [ ssh_username, ssh_password ]
+    port: 22
+    command_timeout: 300
+    script:
+      - cd /var/www/html/alldayhr/staging.alldayhr.com/recruit && git pull origin  staging && composer update && php artisan migrate
+    when:
+      branch: staging
+      event: push
+
+
+  deploy_development:
+    image: appleboy/drone-ssh
+    host: 209.97.176.53
+    secrets: [ ssh_username, ssh_password ]
+    port: 22
+    command_timeout: 300
+    script:
+      - cd /var/www/html/alldayhr/dev.alldayhr.com/recruit && git pull origin development && composer update && php artisan migrate
+    when:
+      branch: development
+      event: push

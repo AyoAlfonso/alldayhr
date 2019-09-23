@@ -1,0 +1,222 @@
+.top_banner{
+    padding-top: 0px !important;
+    
+}
+
+.input_sort{
+    margin-bottom:20px;
+}
+
+
+.job-wrapper .rect .addr {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #0c0a2d;
+  font-size: 1.4rem;
+  font-family: DMSans-Medium;
+  white-space: nowrap;
+  width: 30%;
+  display: inline-block;
+}
+
+.job-wrapper .rect .addr_a {
+    overflow: hidden;
+    white-space: normal;
+    text-overflow: ellipsis;
+    margin-bottom: 20px;
+    color: #282828;
+    height: 60px;
+    line-height: 1.5;
+    padding-top: 20px;
+    opacity: 0.8;;
+}
+
+.reserv {
+  width: 80%;
+  display: inline-block;
+  text-align: left;
+}
+  
+ .cus_select{
+     display:inline-block;
+ }
+  .sel_pad{
+      padding:0px 20px;
+  }
+
+  .sel_addon{
+      display: flex;
+      background: #fff;
+     
+  }
+  .sel_addon span{
+   width:25%;
+   text-align:left;
+    display:inline-block;
+}
+.sel_addon select{
+    width:60%;
+     display:inline-block;
+ }
+
+ .job-wrapper .rect > p {
+  margin-bottom: 0px;
+  padding-right: 6px;
+  text-align: left;
+  color: rgba(40,40,40,0.74);
+}
+.job-wrapper .rect > .xplain {
+font-weight: bold;
+width:90%;
+line-height: normal;
+letter-spacing: -0.28px;
+color: rgba(40, 40, 40, 0.74);
+/*multelips*/
+display: -webkit-box;
+-webkit-line-clamp: 2;
+-webkit-box-orient: vertical;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+.job-wrapper .rect .date {
+  display: block;
+  margin: 20px 0px;
+  margin-bottom: 0px;
+  color: rgba(40, 40, 40, 0.74);
+}
+.job-wrapper .rect .apply {
+  vertical-align: text-bottom;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+ /* CodePen demo */
+body {
+  background: #2a2a2b;
+  color: #fff;
+  text-align: center;
+
+}
+
+.big {
+  font-size: 1.2em;
+}
+
+.small {
+  font-size: .7em;
+}
+
+.square {
+  width: .7em;
+  height: .7em;
+  margin: .5em;
+  display: inline-block;
+}
+
+/* Custom dropdown */
+.custom-dropdown {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px;
+  width: 100%;
+  background: #fff;
+  padding-left: 10px;
+  margin-left: 0px;
+  margin-right: 20px;
+  outline-color: #e9e8e8;
+  border-radius: 5px;
+    
+}
+
+
+.custom-dropdown select {
+   background-color: #fff;;
+   outline-color:#eee;
+   letter-spacing: -0.28px;
+   text-align: center;
+   color: rgba(71, 80, 90, 0.7);
+font-weight:bold; 
+  padding: .5em;
+  padding-right: 2.5em;	
+  border: 0;
+  margin: 0;
+  border-radius: 3px;
+  text-indent: 0.01px;
+  text-overflow: '';
+  /*Hiding the select arrow for firefox*/
+  -moz-appearance: none;
+  /*Hiding the select arrow for chrome*/
+  -webkit-appearance:none;
+  /*Hiding the select arrow default implementation*/
+  appearance: none;
+}
+/*Hiding the select arrow for IE10*/
+.custom-dropdown select::-ms-expand {
+    display: none;
+}
+
+.custom-dropdown::before,
+.custom-dropdown::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+.custom-dropdown select:hover{
+  cursor:pointer;
+}
+.custom-dropdown::after { /*  Custom dropdown arrow */
+    font-family:FontAwesome;
+  content: "\f107";
+  height: 1em;
+  font-size: .925em;
+  font-weight:bold;
+  line-height: 1;
+  right: 1.2em;
+  top: 50%;
+  margin-top: -.5em;
+}
+
+.custom-dropdown::before { /*  Custom dropdown arrow cover */
+  width: 2em;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 0 3px 3px 0;
+  background-color: #fff;
+}
+
+.custom-dropdown::after {
+  color: rgba(0,0,0,.6);
+}
+
+.custom-dropdown select[disabled] {
+  color: rgba(0,0,0,.25);
+}
+
+.navbar-nav > .top_search{
+  display: none;
+}
+
+.no-results{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    color: rgba(40, 40, 40, 0.65);
+    margin: 5%;
+}
+
+.job_date{
+  margin-top: 20px;
+  opacity: 0.9;
+  font-weight: normal !important;
+  font-size: 12px;
+}
+.job_date_lg{
+  opacity: 0.9;
+  font-weight: normal !important;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}

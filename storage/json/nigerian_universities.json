@@ -1,0 +1,518 @@
+[
+    {
+      "university": "Abia State University",
+      "location": "Uturu."
+    },
+    {
+      "university": "Abubakar Tafawa Balewa University",
+      "location": "Bauchi"
+    },
+    {
+      "university": "Achievers University",
+      "location": "Owo"
+    },
+    {
+      "university": "Adamawa State University Mubi",
+      "location": ""
+    },
+    {
+      "university": "Adekunle Ajasin University",
+      "location": "Akungba."
+    },
+    {
+      "university": "Adeleke University",
+      "location": "Ede."
+    },
+    {
+      "university": "Afe Babalola University",
+      "location": "Ado-Ekiti - Ekiti State"
+    },
+    {
+      "university": "African University of Science & Technology",
+      "location": "Abuja"
+    },
+    {
+      "university": "Ahmadu Bello University",
+      "location": "Zaria"
+    },
+    {
+      "university": "Ajayi Crowther University",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Akwa Ibom State University of Technology",
+      "location": "Uyo"
+    },
+    {
+      "university": "Al-Hikmah University",
+      "location": "Ilorin"
+    },
+    {
+      "university": "Al-Qalam University",
+      "location": "Katsina"
+    },
+    {
+      "university": "Ambrose Alli University",
+      "location": "Ekpoma"
+    },
+    {
+      "university": "American University of Nigeria",
+      "location": "Yola"
+    },
+    {
+      "university": "Anambra State University of Science & Technology",
+      "location": "Uli"
+    },
+    {
+      "university": "Babcock University",
+      "location": "Ilishan-Remo"
+    },
+    {
+      "university": "Bauchi State University",
+      "location": "Gadau"
+    },
+    {
+      "university": "Bayero University",
+      "location": "Kano"
+    },
+    {
+      "university": "Baze University",
+      "location": ""
+    },
+    {
+      "university": "Bells University of Technology",
+      "location": "Otta"
+    },
+    {
+      "university": "Benson Idahosa University",
+      "location": "Benin City"
+    },
+    {
+      "university": "Benue State University",
+      "location": "Makurdi."
+    },
+    {
+      "university": "Bingham University",
+      "location": "New Karu"
+    },
+    {
+      "university": "Bowen University",
+      "location": "Iwo"
+    },
+    {
+      "university": "Bukar Abba Ibrahim University",
+      "location": "Damaturu."
+    },
+    {
+      "university": "Caleb University",
+      "location": "Lagos"
+    },
+    {
+      "university": "Caritas University",
+      "location": "Enugu"
+    },
+    {
+      "university": "CETEP City University",
+      "location": "Lagos"
+    },
+    {
+      "university": "Covenant University Ota",
+      "location": ""
+    },
+    {
+      "university": "Crawford University Igbesa",
+      "location": ""
+    },
+    {
+      "university": "Crescent University",
+      "location": ""
+    },
+    {
+      "university": "Cross River State University of Science &Technology",
+      "location": "Calabar"
+    },
+    {
+      "university": "Delta State University Abraka",
+      "location": ""
+    },
+    {
+      "university": "Ebonyi State University",
+      "location": "Abakaliki"
+    },
+    {
+      "university": "Ekiti State University",
+      "location": ""
+    },
+    {
+      "university": "Elizade University",
+      "location": "Ilara-Mokin"
+    },
+    {
+      "university": "Enugu State University of Science and Technology",
+      "location": "Enugu"
+    },
+    {
+      "university": "Evangel University",
+      "location": "Akaeze"
+    },
+    {
+      "university": "Federal University Gashua",
+      "location": ""
+    },
+    {
+      "university": "Federal University of Petroleum Resources",
+      "location": "Effurun"
+    },
+    {
+      "university": "Federal University of Technology Akure",
+      "location": "Akure"
+    },
+    {
+      "university": "Federal University of Technology Minna",
+      "location": "Minna."
+    },
+    {
+      "university": "Federal University of Technology Owerri",
+      "location": "Owerri"
+    },
+    {
+      "university": "Dutse Federal University",
+      "location": "Dutse"
+    },
+    {
+      "university": "Dutsin-Ma Federal University",
+      "location": "Dutsin-Ma"
+    },
+    {
+      "university": "Kashere Federal University",
+      "location": "Kashere"
+    },
+    {
+      "university": "Lafia Federal University",
+      "location": "Lafia"
+    },
+    {
+      "university": "Lokoja Federal University",
+      "location": "Lokoja"
+    },
+    {
+      "university": "Federal University",
+      "location": "Ndufu-Alike"
+    },
+    {
+      "university": "Otuoke Federal University",
+      "location": "Otuoke"
+    },
+    {
+      "university": "Oye-Ekiti Federal University",
+      "location": "Oye-Ekiti"
+    },
+    {
+      "university": "Wukari Federal University",
+      "location": "Wukari"
+    },
+    {
+      "university": "Birnin Kebbi Federal University",
+      "location": "Birnin Kebbi."
+    },
+    {
+      "university": "Gusau Federal University",
+      "location": "Gusau."
+    },
+    {
+      "university": "Fountain Unveristy Oshogbo",
+      "location": "Oshogbo"
+    },
+    {
+      "university": "Godfrey Okoye University",
+      "location": "Ugwuomu-Nike - Enugu State"
+    },
+    {
+      "university": "Gombe State Univeristy",
+      "location": "Gombe"
+    },
+    {
+      "university": "Gregory University",
+      "location": "Uturu"
+    },
+    {
+      "university": "Ibrahim Badamasi Babangida University",
+      "location": "Lapai"
+    },
+    {
+      "university": "Igbinedion University Okada",
+      "location": ""
+    },
+    {
+      "university": "Ignatius Ajuru University of Education",
+      "location": "Rumuolumeni."
+    },
+    {
+      "university": "Imo State University",
+      "location": "Owerri"
+    },
+    {
+      "university": "Jigawa State University",
+      "location": ""
+    },
+    {
+      "university": "Joseph Ayo Babalola University",
+      "location": "Ikeji-Arakeji"
+    },
+    {
+      "university": "Kaduna State University",
+      "location": "Kaduna"
+    },
+    {
+      "university": "Kano University of Science & Technology",
+      "location": "Wudil"
+    },
+    {
+      "university": "Kebbi State University",
+      "location": "Kebbi"
+    },
+    {
+      "university": "Kogi State University Anyigba",
+      "location": ""
+    },
+    {
+      "university": "Kwara State University",
+      "location": "Ilorin"
+    },
+    {
+      "university": "Kwararafa University",
+      "location": "Wukari"
+    },
+    {
+      "university": "Ladoke Akintola University of Technology",
+      "location": "Ogbomoso"
+    },
+    {
+      "university": "Lagos State University Ojo",
+      "location": "Lagos."
+    },
+    {
+      "university": "Landmark University",
+      "location": "Omu-Aran."
+    },
+    {
+      "university": "Lead City University",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Madonna University",
+      "location": "Okija"
+    },
+    {
+      "university": "Mcpherson University",
+      "location": "Seriki Sotayo"
+    },
+    {
+      "university": "Michael Okpara Uni. of Agric.",
+      "location": "Umudike"
+    },
+    {
+      "university": "Modibbo Adama University of Technology",
+      "location": "Yola"
+    },
+    {
+      "university": "Nasarawa State University",
+      "location": "Keffi"
+    },
+    {
+      "university": "National Open University of Nigeria",
+      "location": "Lagos."
+    },
+    {
+      "university": "Niger Delta Unversity",
+      "location": "Yenagoa"
+    },
+    {
+      "university": "Nigeria Police Academy Wudil",
+      "location": ""
+    },
+    {
+      "university": "Nigerian Defence Academy",
+      "location": "Kaduna"
+    },
+    {
+      "university": "Nigerian-Turkish Nile University",
+      "location": "Abuja"
+    },
+    {
+      "university": "Nnamdi Azikiwe University",
+      "location": "Awka"
+    },
+    {
+      "university": "Northwest University",
+      "location": "Kano"
+    },
+    {
+      "university": "Novena University",
+      "location": "Ogume"
+    },
+    {
+      "university": "Obafemi Awolowo University",
+      "location": "Ile-Ife"
+    },
+    {
+      "university": "Obong University",
+      "location": "Obong Ntak"
+    },
+    {
+      "university": "Oduduwa University",
+      "location": "Ipetumodu - Osun State"
+    },
+    {
+      "university": "Olabisi Onabanjo University Ago-Iwoye",
+      "location": ""
+    },
+    {
+      "university": "Ondo State University of Science & Technology",
+      "location": "Okitipupa"
+    },
+    {
+      "university": "Osun State University",
+      "location": "Oshogbo"
+    },
+    {
+      "university": "Pan-African University",
+      "location": "Lagos"
+    },
+    {
+      "university": "Paul University",
+      "location": "Awka - Anambra State"
+    },
+    {
+      "university": "Plateau State University",
+      "location": "Bokkos"
+    },
+    {
+      "university": "Redeemer's University",
+      "location": "Mowe"
+    },
+    {
+      "university": "Renaissance University",
+      "location": "Enugu"
+    },
+    {
+      "university": "Rhema University",
+      "location": "Obeama-Asa - Rivers State"
+    },
+    {
+      "university": "Rivers State University of Science & Technology",
+      "location": ""
+    },
+    {
+      "university": "Salem University",
+      "location": "Lokoja"
+    },
+    {
+      "university": "Samuel Adegboyega University",
+      "location": "Ogwa."
+    },
+    {
+      "university": "Sokoto State University",
+      "location": "Sokoto"
+    },
+    {
+      "university": "Southwestern University",
+      "location": "Oku Owa"
+    },
+    {
+      "university": "Tai Solarin Univ. of Education",
+      "location": "Ijebu-Ode"
+    },
+    {
+      "university": "Tansian University",
+      "location": "Umunya"
+    },
+    {
+      "university": "Taraba State University",
+      "location": "Jalingo"
+    },
+    {
+      "university": "Technical University Ibadan",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Umaru Musa Yar'Adua University",
+      "location": "Katsina"
+    },
+    {
+      "university": "University of Abuja",
+      "location": "Gwagwalada"
+    },
+    {
+      "university": "University of Agriculture Abeokuta",
+      "location": "Abeokuta."
+    },
+    {
+      "university": "University of Agriculture",
+      "location": "Makurdi."
+    },
+    {
+      "university": "University of Benin",
+      "location": ""
+    },
+    {
+      "university": "University of Calabar",
+      "location": ""
+    },
+    {
+      "university": "University of Ibadan",
+      "location": ""
+    },
+    {
+      "university": "University of Ilorin",
+      "location": ""
+    },
+    {
+      "university": "University of Jos",
+      "location": ""
+    },
+    {
+      "university": "University of Lagos",
+      "location": ""
+    },
+    {
+      "university": "University of Maiduguri",
+      "location": ""
+    },
+    {
+      "university": "University of Mkar",
+      "location": "Mkar"
+    },
+    {
+      "university": "University of Nigeria",
+      "location": "Nsukka"
+    },
+    {
+      "university": "University of Port-Harcourt",
+      "location": ""
+    },
+    {
+      "university": "University of Uyo",
+      "location": ""
+    },
+    {
+      "university": "Usumanu Danfodiyo University",
+      "location": ""
+    },
+    {
+      "university": "Veritas University",
+      "location": ""
+    },
+    {
+      "university": "Wellspring University",
+      "location": "Evbuobanosa - Edo State"
+    },
+    {
+      "university": "Wesley Univ. of Science & Tech.",
+      "location": "Ondo"
+    },
+    {
+      "university": "Western Delta University",
+      "location": "Oghara"
+    }
+  ]

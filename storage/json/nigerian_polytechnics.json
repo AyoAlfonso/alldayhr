@@ -1,0 +1,426 @@
+[
+    {
+      "university": "Eastern Polytechnic",
+      "location": "Rivers State"
+    },
+    {
+      "university": "Federal College of Forestry",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Ramat Polytechnic",
+      "location": "Borno State"
+    },
+    {
+      "university": "College of Agriculture",
+      "location": "Kabba"
+    },
+    {
+      "university": "Samaru College of Agriculture",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "The Polytechnic",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Abdul Gusau Polytechnic",
+      "location": "Zamfara State"
+    },
+    {
+      "university": "Federal College of Land Resources Technology",
+      "location": "Owerri"
+    },
+    {
+      "university": "Nasarawa State Polytechnic",
+      "location": "Nasarawa State"
+    },
+    {
+      "university": "Gateway Polytechnic Saapade",
+      "location": "Ogun State"
+    },
+    {
+      "university": "Maritime Academy of Nigeria",
+      "location": "Akwa Ibom State"
+    },
+    {
+      "university": "Akperan Orshi College of Agriculture",
+      "location": "Benue State"
+    },
+    {
+      "university": "Federal College of Animal Health and Production Technology",
+      "location": "Vom"
+    },
+    {
+      "university": "Abubakar Tafari Ali Polytechnic",
+      "location": "Bauchi State"
+    },
+    {
+      "university": "Federal College of Wildlife Management",
+      "location": "Niger State"
+    },
+    {
+      "university": "Federal School of Dental Technology & Therapy",
+      "location": "Enugu State"
+    },
+    {
+      "university": "Ibrahim Babangida College of Agriculture",
+      "location": "Cross River State"
+    },
+    {
+      "university": "Delta State College of Agriculture",
+      "location": "Delta State"
+    },
+    {
+      "university": "Shaka Polytechnic",
+      "location": "Edo State"
+    },
+    {
+      "university": "Imo State Technological Skills Acquisition Center",
+      "location": "Imo State"
+    },
+    {
+      "university": "Plateau State College of Agriculture",
+      "location": "Plateau State"
+    },
+    {
+      "university": "Tower Polytechnic",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Borno College of Agriculture",
+      "location": "Borno State"
+    },
+    {
+      "university": "Lagos City Polytechnic",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Adamawa State Polytechnic",
+      "location": "Adamawa State"
+    },
+    {
+      "university": "Federal College of Animal Health & Production Technology",
+      "location": "Oyo State"
+    },
+    {
+      "university": "Hussani Adamu Polytechnic",
+      "location": "Jigawa State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Mubi"
+    },
+    {
+      "university": "Kwara State Polytechnic",
+      "location": "Kwara State"
+    },
+    {
+      "university": "Petroleum Training Institute",
+      "location": "Delta State"
+    },
+    {
+      "university": "Imo State Polytechnic",
+      "location": "Imo State"
+    },
+    {
+      "university": "Foundation College of Technology",
+      "location": "Akwa Ibom State"
+    },
+    {
+      "university": "Niger State Polytechnic",
+      "location": "Niger State"
+    },
+    {
+      "university": "Benue State Polytechnic",
+      "location": "Benue State"
+    },
+    {
+      "university": "Plateau State Polytechnic",
+      "location": "Plateau State"
+    },
+    {
+      "university": "Wavecrest College of Hospitality",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Hassan Usman Katsina Polytechnic",
+      "location": "Katsina State"
+    },
+    {
+      "university": "Wolex Polytechnic",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Allover Central Polytechnic",
+      "location": "Ogun State"
+    },
+    {
+      "university": "Federal College of Chemical and Leather and Technology",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "School of Agriculture",
+      "location": "Ikorodu"
+    },
+    {
+      "university": "Federal College of Land Resources Technology",
+      "location": "Kuru"
+    },
+    {
+      "university": "The Polytechnic",
+      "location": "Calabar"
+    },
+    {
+      "university": "Akwa Ibom State Polytechnic",
+      "location": "Akwa Ibom State"
+    },
+    {
+      "university": "Federal College of Education",
+      "location": "Pankshin"
+    },
+    {
+      "university": "Mai Idris Alooma Polytechnic",
+      "location": "Yobe State"
+    },
+    {
+      "university": "Osun State Polytechnic",
+      "location": "Osun State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Birnin-Kebbi"
+    },
+    {
+      "university": "Akanu Ibiam Federal Polytechnic",
+      "location": "Ebonyi State"
+    },
+    {
+      "university": "Auchi Polytechnic",
+      "location": "Edo State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Nekede"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Ede"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Bauchi"
+    },
+    {
+      "university": "Our Saviour Institute of Science and Technology",
+      "location": "Enugu State"
+    },
+    {
+      "university": "College of Agriculture",
+      "location": "Jalingo"
+    },
+    {
+      "university": "Rivers State College of Arts and Science",
+      "location": "Rivers State"
+    },
+    {
+      "university": "Mohammed Abdullahi Wase Polytechnic",
+      "location": "Kano State"
+    },
+    {
+      "university": "Kogi State Polytechnic",
+      "location": "Kogi State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Nassarawa"
+    },
+    {
+      "university": "Rivers State Polytechnic",
+      "location": "Rivers State"
+    },
+    {
+      "university": "Federal College of Forestry. Jos",
+      "location": "Plateau State"
+    },
+    {
+      "university": "Bayelsa State College of Arts and Science",
+      "location": "Bayelsa State"
+    },
+    {
+      "university": "College of Agriculture",
+      "location": "Lafia"
+    },
+    {
+      "university": "Kaduna Polytechnic",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Offa"
+    },
+    {
+      "university": "Niger State College of Agriculture",
+      "location": "Niger State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Oko"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Bida"
+    },
+    {
+      "university": "Rufus Giwa Polytechnic",
+      "location": "Ondo State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Ilaro"
+    },
+    {
+      "university": "The KINGS Poly",
+      "location": "Saki"
+    },
+    {
+      "university": "Moshood Abiola Polytechnic",
+      "location": "Ogun State"
+    },
+    {
+      "university": "Maurid Institute of Management & Technology",
+      "location": "Nasarawa"
+    },
+    {
+      "university": "College of Agriculture",
+      "location": "Zuru"
+    },
+    {
+      "university": "Dorben Polytechnic",
+      "location": "Abuja FCT"
+    },
+    {
+      "university": "College of Agriculture and Animal Science",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "Polytechnic Ile-Ife",
+      "location": "Osun State"
+    },
+    {
+      "university": "Marvic Polytechnic",
+      "location": "Ogun State"
+    },
+    {
+      "university": "Southern Nigeria Institute of Innovative Technology (SNIITPOLY)",
+      "location": "Osun State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Damaturu"
+    },
+    {
+      "university": "Yaba College of Technology",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Lagos State Polytechnic",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Federal College of Fisheries and Marine Technology",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Hussaini Adamu Federal Polytechnic",
+      "location": "Jigawa State"
+    },
+    {
+      "university": "Abdul Gusau Polytechnic",
+      "location": "Zamfara State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Idah"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Ado-Ekiti"
+    },
+    {
+      "university": "Federal College of Forestry Mechanisation",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "Ronik Polytechnic",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Kebbi State Polytechnic",
+      "location": "Kebbi State"
+    },
+    {
+      "university": "Temple Gate Polytechnic",
+      "location": "Abia State"
+    },
+    {
+      "university": "Kano State Polytechnic",
+      "location": "Kano State"
+    },
+    {
+      "university": "Federal College of Fresh Water Fisheries Technology",
+      "location": "Niger State"
+    },
+    {
+      "university": "Grace Polytechnic",
+      "location": "Lagos State"
+    },
+    {
+      "university": "Ekwenugo Okeke Polytechnic",
+      "location": "Anambra State"
+    },
+    {
+      "university": "Federal Polytechnic",
+      "location": "Namoda"
+    },
+    {
+      "university": "Institute of Management Technology",
+      "location": "Enugu"
+    },
+    {
+      "university": "Federal College of Agriculture",
+      "location": "Ishiagu"
+    },
+    {
+      "university": "Kings Polytechnic",
+      "location": "Edo State"
+    },
+    {
+      "university": "Federal College of Animal Health and Production Technology",
+      "location": "Ibadan"
+    },
+    {
+      "university": "Akwa-Ibom College of Agriculture",
+      "location": "Akwa Ibom State"
+    },
+    {
+      "university": "Audu Bako School of Agriculture",
+      "location": "Kano State"
+    },
+    {
+      "university": "Osun State College of Technology",
+      "location": "Osun State"
+    },
+    {
+      "university": "Nigerian College of Aviation Technology",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "Nuhu Bamalli Polytechnic",
+      "location": "Kaduna State"
+    },
+    {
+      "university": "Delta State Polytechnic (three institutions)",
+      "location": "Delta State"
+    }
+  ]

@@ -1,0 +1,82 @@
+.topbar-brand img{
+    max-height: 40px;
+}
+
+.header{
+    padding: 200px 10px;
+}
+
+.card{
+    border-radius: 4px ;
+}
+
+.job-opening-card:hover .card {
+    background: var(--main-color);
+    border-color: var(--main-color);
+}
+
+
+.job-opening-card:hover .card h5, .job-opening-card:hover .card .text-info {
+    color: #fff !important;
+}
+
+.job-opening-card .card .text-info {
+    color: var(--main-color) !important;
+}
+
+.job-filters .btn-outline.btn-info.active, .job-filters .btn-outline.btn-info:hover {
+    background: var(--main-color);
+    border-color: var(--main-color);
+    color: #ffffff;
+}
+
+.job-filters .btn-outline.btn-info{
+    color: var(--main-color);
+    border-color: var(--main-color);
+}
+
+.topbar-right .btn-primary{
+    background: var(--main-color);
+    border-color: var(--main-color);
+}
+
+.theme-color{
+    color: var(--main-color) !important;
+}
+
+.theme-background{
+    background: var(--main-color) !important;
+}
+
+.btn.theme-background, .btn.theme-background:hover{
+    background: var(--main-color) !important;
+    border-color: var(--main-color) !important;
+}
+
+.sidebar{
+    padding: 0 20px;
+}
+
+.select-file{
+    padding: 15px;
+    border-radius: 4px;
+    border: 1px solid #c9d7df;
+    cursor: pointer;
+}
+
+.has-error .help-block,
+.has-error .control-label,
+.has-error .radio,
+.has-error .checkbox,
+.has-error .radio-inline,
+.has-error .checkbox-inline,
+.has-error.radio label,
+.has-error.checkbox label,
+.has-error.radio-inline label,
+.has-error.checkbox-inline label {
+    color: #ee1127;
+}
+
+.company-title{
+    margin-bottom: 0.5rem;
+}

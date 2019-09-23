@@ -1,0 +1,55 @@
+  
+  @font-face {
+    font-family: Ubuntu-R;
+    src: url('../fonts/ubuntu/Ubuntu-R.ttf');
+  }
+  
+  @font-face {
+    font-family: Ubuntu-M;
+    src: url('../fonts/ubuntu/Ubuntu-M.ttf');
+  }
+  
+  @font-face {
+    font-family: Ubuntu-L;
+    src: url('../fonts/ubuntu/Ubuntu-L.ttf');
+  }
+  
+  @font-face {
+    font-family: Ubuntu-B;
+    src: url('../fonts/ubuntu/Ubuntu-B.ttf');
+  }
+  
+
+  @font-face {
+    font-family: DMSans-Bold;
+    src: url('../fonts/dm_sans/DMSans-Bold.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-BoldItalic;
+    src: url('../fonts/dm_sans/DMSans-BoldItalic.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-Medium;
+    src: url('../fonts/dm_sans/DMSans-Medium.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-MediumItalic;
+    src: url('../fonts/dm_sans/DMSans-MediumItalic.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-Regular;
+    src: url('../fonts/dm_sans/DMSans-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-RegularItalic;
+    src: url('../fonts/dm_sans/DMSans-RegularItalic.ttf');
+  }
+
+  body {
+    font-family: DMSans-Regular;
+  }

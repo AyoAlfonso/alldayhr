@@ -1,0 +1,222 @@
+.top_search{
+    display: table-cell; vertical-align: middle; height:70px;
+ }
+ body{
+     color:#858383;
+     font-family: DMSans !important;
+ }
+ button, input, select, textarea {
+     font-family: inherit;
+     font-size: inherit;
+     line-height: inherit;
+     color: #000;
+ }
+ .top_search input{
+     height: 40px;width: 538px;
+     color:#858383 !important;border-right:0px;border:none;
+     border-radius:5px 0px 0px 5px;
+     outline-color: transparent;
+     padding-left:10px;
+     font-size:1.8rem;
+  }
+  .top_search >span{
+     background:#fff;
+     display:inline-block;
+     padding-right:10px;
+     border-radius:5px;
+  }
+  .top_search_btn{
+    font-size: 25px;
+    float: right;
+    margin-top: 2.5px;
+    color: #3f36be;
+
+  }
+
+  .main_search_btn{
+    font-size: 20px;
+    float: right;
+    margin-top: 10px;
+    color: #3f36be;
+    margin-right: 10px;
+  }
+
+  .jmbtr{
+     padding: 40px 25px 10px 25px;
+     margin-top: 70px;
+     border-radius: 12px;
+     margin-bottom: 80px;
+     text-align: left;
+     border: 1px solid  #eee;
+  }
+  .jmbtr label{
+     display: inline-block;
+     max-width: 100%;
+     margin-bottom: 5px;
+     background: #ccc;
+     padding: 5px 25px;
+     border-radius: 4px;
+     margin-right: 10px;
+     font-size: 1.5rem;
+     color: rgba(40, 40, 40, 0.74);
+     background-color: #ffffff;
+ 
+  }
+  .role_div .ad_n{
+     margin-top: 10px;
+     color: #211c66;
+     font-weight: bold;
+     margin-bottom: 10px;
+  }
+  .reservx{
+     
+         width: 77%;
+         display: inline-block;
+         text-align: left;
+     
+  }
+  .last_foot {
+     padding-bottom: 10px;
+     background-color: #f8f7ff !important;
+ }
+  .dts{
+     color: #fff;
+     padding: 12px 15px;
+     background-color: #3f36be;
+     border-color: transparent !important;
+     padding-left: 50px;
+     padding-right: 50px;
+  }
+  .role_div {
+      text-align: left;
+      width:90%;
+      display: inline-block;
+  }
+  .role_div .role{
+     width: 90%;
+     display: inline-block;
+     color: #000;
+     text-align: left;
+     font-size: 3rem;
+     font-weight: bold;
+     color: #211c66;
+     padding-bottom: 20px;
+     font-family: DMSans-Medium;
+  }
+  .show {
+     text-align: center;
+     padding-bottom: 100px;
+ }
+ .rltd{
+     color: #211c66;
+     font-weight:bold;
+     font-size:1.7rem;
+ }
+  .role_div h5{
+     font-size: 14px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     
+     font-weight: bold;
+  }
+  .role_div h5::before{
+     font-family:FontAwesome;
+     content:'\f017';
+    margin-right:12px;
+  }
+ .customWrap{
+     padding-left:90px;padding-right:90px
+ }
+  .rolemg{
+     height: 70px;
+     padding-top: 12px;
+     width: 70px;
+     display: inline-block;
+     vertical-align: top;
+  }
+  .ovr h6{
+     color: #211c66;
+     font-weight:bold;
+     font-size: 2rem;
+     margin-top: 5%;
+  }
+  .ovr{
+     display: block;
+     margin-block-start: 0em !important;
+     margin-block-end: 0em !important;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+     text-align: justify;
+     color: rgba(40,40,40,0.74);
+     font-size: 16px;
+     line-height: 2;
+     font-weight: 500;
+     
+ }
+  
+  @media only screen and (max-width: 1024px) {
+     .top_search{
+        
+         margin:0 auto;
+         
+     }
+     .top_search input{
+         width: 300px;
+     }
+     .customWrap {
+         padding-left: 20px; 
+         padding-right: 20px;
+     }
+    
+ }
+ @media only screen and (max-width: 425px) {
+     .top_search{
+         display: inline-block; 
+         margin-left: 50px;
+       
+     }
+     .top_search span{
+         margin-left: 150px;
+       
+     }
+     .customWrap {
+         padding-left: 0px; 
+         padding-right: 0px;
+     }
+     
+     .top_search input{
+         width: 300px;
+     }
+ }
+  @media only screen and (max-width: 768px) {
+      
+     .top_search{
+         display: table-cell; 
+         margin:0 auto;
+        
+     }
+     .top_search input{
+         width:90px;
+     }
+     .customWrap {
+         padding-left: 20px; 
+         padding-right: 20px;
+     }
+ }
+ @media only screen and (max-width: 375px) {
+     .top_search span{
+         margin-left: 120px;
+       
+     }
+     .customWrap {
+         padding-left: 0px; 
+         padding-right: 0px;
+     }
+ }
+ 
+ @media only screen and (max-width: 320px) {
+     .customWrap {
+         padding-left: 0px; 
+         padding-right: 0px;
+     }
+ }

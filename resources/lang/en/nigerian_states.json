@@ -1,0 +1,261 @@
+[
+    {
+      "SNo": 1,
+      "Rank": 1,
+      "State": "Kano State",
+      "Population": "94,01,288",
+      "": ""
+    },
+    {
+      "SNo": 2,
+      "Rank": 2,
+      "State": "Lagos State",
+      "Population": "91,13,605",
+      "": ""
+    },
+    {
+      "SNo": 3,
+      "Rank": 3,
+      "State": "Kaduna State",
+      "Population": "61,13,503",
+      "": ""
+    },
+    {
+      "SNo": 4,
+      "Rank": 4,
+      "State": "Katsina State",
+      "Population": "58,01,584",
+      "": ""
+    },
+    {
+      "SNo": 5,
+      "Rank": 5,
+      "State": "Oyo State",
+      "Population": "55,80,894",
+      "": ""
+    },
+    {
+      "SNo": 6,
+      "Rank": 6,
+      "State": "Rivers State",
+      "Population": "51,98,716",
+      "": ""
+    },
+    {
+      "SNo": 7,
+      "Rank": 7,
+      "State": "Bauchi State",
+      "Population": "46,53,066",
+      "": ""
+    },
+    {
+      "SNo": 8,
+      "Rank": 8,
+      "State": "Jigawa State",
+      "Population": "43,61,002",
+      "": ""
+    },
+    {
+      "SNo": 9,
+      "Rank": 9,
+      "State": "Benue State",
+      "Population": "42,53,641",
+      "": ""
+    },
+    {
+      "SNo": 10,
+      "Rank": 10,
+      "State": "Anambra State",
+      "Population": "41,77,828",
+      "": ""
+    },
+    {
+      "SNo": 11,
+      "Rank": 11,
+      "State": "Borno State",
+      "Population": "41,71,104",
+      "": ""
+    },
+    {
+      "SNo": 12,
+      "Rank": 12,
+      "State": "Delta State",
+      "Population": "41,12,445",
+      "": ""
+    },
+    {
+      "SNo": 13,
+      "Rank": 13,
+      "State": "Imo State",
+      "Population": "39,27,563",
+      "": ""
+    },
+    {
+      "SNo": 14,
+      "Rank": 14,
+      "State": "Niger State",
+      "Population": "39,54,772",
+      "": ""
+    },
+    {
+      "SNo": 15,
+      "Rank": 15,
+      "State": "Akwa Ibom State",
+      "Population": "39,02,051",
+      "": ""
+    },
+    {
+      "SNo": 16,
+      "Rank": 16,
+      "State": "Ogun State",
+      "Population": "37,51,140",
+      "": ""
+    },
+    {
+      "SNo": 17,
+      "Rank": 17,
+      "State": "Sokoto State",
+      "Population": "37,02,676",
+      "": ""
+    },
+    {
+      "SNo": 18,
+      "Rank": 18,
+      "State": "Ondo State",
+      "Population": "34,60,877",
+      "": ""
+    },
+    {
+      "SNo": 19,
+      "Rank": 19,
+      "State": "Osun State",
+      "Population": "34,16,959",
+      "": ""
+    },
+    {
+      "SNo": 20,
+      "Rank": 20,
+      "State": "Kogi State",
+      "Population": "33,14,043",
+      "": ""
+    },
+    {
+      "SNo": 21,
+      "Rank": 21,
+      "State": "Zamfara State",
+      "Population": "32,78,873",
+      "": ""
+    },
+    {
+      "SNo": 22,
+      "Rank": 22,
+      "State": "Enugu State",
+      "Population": "32,67,837",
+      "": ""
+    },
+    {
+      "SNo": 23,
+      "Rank": 23,
+      "State": "Kebbi State",
+      "Population": "32,56,541",
+      "": ""
+    },
+    {
+      "SNo": 24,
+      "Rank": 24,
+      "State": "Edo State",
+      "Population": "32,33,366",
+      "": ""
+    },
+    {
+      "SNo": 25,
+      "Rank": 25,
+      "State": "Plateau State",
+      "Population": "32,06,531",
+      "": ""
+    },
+    {
+      "SNo": 26,
+      "Rank": 26,
+      "State": "Adamawa State",
+      "Population": "31,78,950",
+      "": ""
+    },
+    {
+      "SNo": 27,
+      "Rank": 27,
+      "State": "Cross River State",
+      "Population": "28,82,988",
+      "": ""
+    },
+    {
+      "SNo": 28,
+      "Rank": 28,
+      "State": "Abia State",
+      "Population": "28,45,370",
+      "": ""
+    },
+    {
+      "SNo": 29,
+      "Rank": 29,
+      "State": "Ekiti State",
+      "Population": "23,98,357",
+      "": ""
+    },
+    {
+      "SNo": 30,
+      "Rank": 30,
+      "State": "Kwara State",
+      "Population": "23,65,353",
+      "": ""
+    },
+    {
+      "SNo": 31,
+      "Rank": 31,
+      "State": "Gombe State",
+      "Population": "23,65,040",
+      "": ""
+    },
+    {
+      "SNo": 32,
+      "Rank": 32,
+      "State": "Yobe State",
+      "Population": "23,21,339",
+      "": ""
+    },
+    {
+      "SNo": 33,
+      "Rank": 33,
+      "State": "Taraba State",
+      "Population": "22,94,800",
+      "": ""
+    },
+    {
+      "SNo": 34,
+      "Rank": 34,
+      "State": "Ebonyi State",
+      "Population": "21,76,947",
+      "": ""
+    },
+    {
+      "SNo": 35,
+      "Rank": 35,
+      "State": "Nasarawa State",
+      "Population": "18,69,377",
+      "": ""
+    },
+    {
+      "SNo": 36,
+      "Rank": 36,
+      "State": "Bayelsa State",
+      "Population": "17,04,515",
+      "": ""
+    },
+    {
+      "SNo": 37,
+      "Rank": 37,
+      "State": "FCT",
+      "Population": "14,05,201",
+      "": ""
+    }
+  ]

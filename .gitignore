@@ -1,0 +1,41 @@
+/node_modules
+/public/hot
+/public/storage
+/public/user-uploads
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+
+# Global
+.*.swp
+.DS_Store
+
+# Application
+web/app/composer.json
+web/app/composer.lock
+web/app/vendor/
+web/app/doc/
+web/app/report/
+data/
+
+# PHPStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Netbeans
+nbproject/
+/nbproject/
+/nbproject/private/
+/nbproject/private/private.properties
+
+# SSL Certs
+etc/ssl/

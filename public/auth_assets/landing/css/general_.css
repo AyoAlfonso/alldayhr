@@ -1,0 +1,58 @@
+@font-face {
+    font-family: DMSans-Bold;
+    src: url('../../fonts/dm_sans/DMSans-Bold.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-BoldItalic;
+    src: url('../../fonts/dm_sans/DMSans-BoldItalic.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-Medium;
+    src: url('../../fonts/dm_sans/DMSans-Medium.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-MediumItalic;
+    src: url('../../fonts/dm_sans/DMSans-MediumItalic.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans;
+    src: url('../../fonts/dm_sans/DMSans-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans-RegularItalic;
+    src: url('../../fonts/dm_sans/DMSans-RegularItalic.ttf');
+  }
+
+.clear{
+    clear:both;
+}
+html{
+    font-family: DMSans !important;
+}
+body{
+    color:#858383;
+    font-family: DMSans !important;
+}
+
+button{
+    /* border:1px solid #000 !important; */
+}
+
+p {
+    display: block;
+    margin-block-start: 0em !important;
+    margin-block-end: 0em !important;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a:focus, a:hover {
+    color: #23527c;
+    text-decoration: none;
+}
+

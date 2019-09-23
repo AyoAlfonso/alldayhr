@@ -1,0 +1,867 @@
+[
+    {
+      "Course1D": 1100,
+      "Major": "General Agriculture",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1101,
+      "Major": "Agriculture Production And Management",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1102,
+      "Major": "Agricultural Economics",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1103,
+      "Major": "Animal Sciences",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1104,
+      "Major": "Food Science",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1105,
+      "Major": "Plant Science And Agronomy",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1106,
+      "Major": "Soil Science",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1199,
+      "Major": "Miscellaneous Agriculture",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1302,
+      "Major": "Forestry",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 1303,
+      "Major": "Natural Resources Management",
+      "Major_Category": "Agriculture & Natural Resources"
+    },
+    {
+      "Course1D": 6000,
+      "Major": "Fine Arts",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6001,
+      "Major": "Drama And Theater Arts",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6002,
+      "Major": "Music",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6003,
+      "Major": "Visual And Performing Arts",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6004,
+      "Major": "Commercial Art And Graphic Design",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6005,
+      "Major": "Film Video And Photographic Arts",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6007,
+      "Major": "Studio Arts",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 6099,
+      "Major": "Miscellaneous Fine Arts",
+      "Major_Category": "Arts"
+    },
+    {
+      "Course1D": 1301,
+      "Major": "Environmental Science",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3600,
+      "Major": "Biology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3601,
+      "Major": "Biochemical Sciences",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3602,
+      "Major": "Botany",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3603,
+      "Major": "Molecular Biology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3604,
+      "Major": "Ecology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3605,
+      "Major": "Genetics",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3606,
+      "Major": "Microbiology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3607,
+      "Major": "Pharmacology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3608,
+      "Major": "Physiology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3609,
+      "Major": "Zoology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3611,
+      "Major": "Neuroscience",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 3699,
+      "Major": "Miscellaneous Biology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 4006,
+      "Major": "Cognitive Science And Biopsychology",
+      "Major_Category": "Biology & Life Science"
+    },
+    {
+      "Course1D": 6200,
+      "Major": "General Business",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6201,
+      "Major": "Accounting",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6202,
+      "Major": "Actuarial Science",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6203,
+      "Major": "Business Management And Administration",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6204,
+      "Major": "Operations Logistics And E-Commerce",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6205,
+      "Major": "Business Economics",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6206,
+      "Major": "Marketing And Marketing Research",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6207,
+      "Major": "Finance",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6209,
+      "Major": "Human Resources And Personnel Management",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6210,
+      "Major": "International Business",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6211,
+      "Major": "Hospitality Management",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6212,
+      "Major": "Management Information Systems And Statistics",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 6299,
+      "Major": "Miscellaneous Business & Medical Administration",
+      "Major_Category": "Business"
+    },
+    {
+      "Course1D": 1901,
+      "Major": "Communications",
+      "Major_Category": "Communications & Journalism"
+    },
+    {
+      "Course1D": 1902,
+      "Major": "Journalism",
+      "Major_Category": "Communications & Journalism"
+    },
+    {
+      "Course1D": 1903,
+      "Major": "Mass Media",
+      "Major_Category": "Communications & Journalism"
+    },
+    {
+      "Course1D": 1904,
+      "Major": "Advertising And Public Relations",
+      "Major_Category": "Communications & Journalism"
+    },
+    {
+      "Course1D": 2001,
+      "Major": "Communication Technologies",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2100,
+      "Major": "Computer And Information Systems",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2101,
+      "Major": "Computer Programming And Data Processing",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2102,
+      "Major": "Computer Science",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2105,
+      "Major": "Information Sciences",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2106,
+      "Major": "Computer Administration Management And Security",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2107,
+      "Major": "Computer Networking And Telecommunications",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 3700,
+      "Major": "Mathematics",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 3701,
+      "Major": "Applied Mathematics",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 3702,
+      "Major": "Statistics And Decision Science",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 4005,
+      "Major": "Mathematics And Computer Science",
+      "Major_Category": "Computers & Mathematics"
+    },
+    {
+      "Course1D": 2300,
+      "Major": "General Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2301,
+      "Major": "Educational Administration And Supervision",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2303,
+      "Major": "School Student Counseling",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2304,
+      "Major": "Elementary Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2305,
+      "Major": "Mathematics Teacher Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2306,
+      "Major": "Physical And Health Education Teaching",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2307,
+      "Major": "Early Childhood Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2308,
+      "Major": "Science And Computer Teacher Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2309,
+      "Major": "Secondary Teacher Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2310,
+      "Major": "Special Needs Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2311,
+      "Major": "Social Science Or History Teacher Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2312,
+      "Major": "Teacher Education: Multiple Levels",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2313,
+      "Major": "Language And Drama Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2314,
+      "Major": "Art And Music Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 2399,
+      "Major": "Miscellaneous Education",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 3501,
+      "Major": "Library Science",
+      "Major_Category": "Education"
+    },
+    {
+      "Course1D": 1401,
+      "Major": "Architecture",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2400,
+      "Major": "General Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2401,
+      "Major": "Aerospace Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2402,
+      "Major": "Biological Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2403,
+      "Major": "Architectural Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2404,
+      "Major": "Biomedical Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2405,
+      "Major": "Chemical Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2406,
+      "Major": "Civil Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2407,
+      "Major": "Computer Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2408,
+      "Major": "Electrical Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2409,
+      "Major": "Engineering Mechanics Physics And Science",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2410,
+      "Major": "Environmental Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2411,
+      "Major": "Geological And Geophysical Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2412,
+      "Major": "Industrial And Manufacturing Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2413,
+      "Major": "Materials Engineering And Materials Science",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2414,
+      "Major": "Mechanical Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2415,
+      "Major": "Metallurgical Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2416,
+      "Major": "Mining And Mineral Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2417,
+      "Major": "Naval Architecture And Marine Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2418,
+      "Major": "Nuclear Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2419,
+      "Major": "Petroleum Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2499,
+      "Major": "Miscellaneous Engineering",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2500,
+      "Major": "Engineering Technologies",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2501,
+      "Major": "Engineering And Industrial Management",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2502,
+      "Major": "Electrical Engineering Technology",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2503,
+      "Major": "Industrial Production Technologies",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2504,
+      "Major": "Mechanical Engineering Related Technologies",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 2599,
+      "Major": "Miscellaneous Engineering Technologies",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 5008,
+      "Major": "Materials Science",
+      "Major_Category": "Engineering"
+    },
+    {
+      "Course1D": 4002,
+      "Major": "Nutrition Sciences",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6100,
+      "Major": "General Medical And Health Services",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6102,
+      "Major": "Communication Disorders Sciences And Services",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6103,
+      "Major": "Health And Medical Administrative Services",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6104,
+      "Major": "Medical Assisting Services",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6105,
+      "Major": "Medical Technologies Technicians",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6106,
+      "Major": "Health And Medical Preparatory Programs",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6107,
+      "Major": "Nursing",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6108,
+      "Major": "Pharmacy Pharmaceutical Sciences And Administration",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6109,
+      "Major": "Treatment Therapy Professions",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6110,
+      "Major": "Community And Public Health",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 6199,
+      "Major": "Miscellaneous Health Medical Professions",
+      "Major_Category": "Health"
+    },
+    {
+      "Course1D": 1501,
+      "Major": "Area Ethnic And Civilization Studies",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 2601,
+      "Major": "Linguistics And Comparative Language And Literature",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 2602,
+      "Major": "French German Latin And Other Common Foreign Language Studies",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 2603,
+      "Major": "Other Foreign Languages",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 3301,
+      "Major": "English Language And Literature",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 3302,
+      "Major": "Composition And Rhetoric",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 3401,
+      "Major": "Liberal Arts",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 3402,
+      "Major": "Humanities",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 4001,
+      "Major": "Intercultural And International Studies",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 4801,
+      "Major": "Philosophy And Religious Studies",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 4901,
+      "Major": "Theology And Religious Vocations",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 5502,
+      "Major": "Anthropology And Archeology",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 6006,
+      "Major": "Art History And Criticism",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 6402,
+      "Major": "History",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 6403,
+      "Major": "United States History",
+      "Major_Category": "Humanities & Liberal Arts"
+    },
+    {
+      "Course1D": 2201,
+      "Major": "Cosmetology Services And Culinary Arts",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 2901,
+      "Major": "Family And Consumer Sciences",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 3801,
+      "Major": "Military Technologies",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 4101,
+      "Major": "Physical Fitness Parks Recreation And Leisure",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 5601,
+      "Major": "Construction Services",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 5701,
+      "Major": "Electrical, Mechanical, And Precision Technologies And Production",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 5901,
+      "Major": "Transportation Sciences And Technologies",
+      "Major_Category": "Industrial Arts & Consumer Services"
+    },
+    {
+      "Course1D": 4000,
+      "Major": "Multi/Interdisciplinary Studies",
+      "Major_Category": "Interdisciplinary"
+    },
+    {
+      "Course1D": 3201,
+      "Major": "Court Reporting",
+      "Major_Category": "Law & Public Policy"
+    },
+    {
+      "Course1D": 3202,
+      "Major": "Pre-Law And Legal Studies",
+      "Major_Category": "Law & Public Policy"
+    },
+    {
+      "Course1D": 5301,
+      "Major": "Criminal Justice And Fire Protection",
+      "Major_Category": "Law & Public Policy"
+    },
+    {
+      "Course1D": 5401,
+      "Major": "Public Administration",
+      "Major_Category": "Law & Public Policy"
+    },
+    {
+      "Course1D": 5402,
+      "Major": "Public Policy",
+      "Major_Category": "Law & Public Policy"
+    },
+    {
+      "Course1D": "Bbbb",
+      "Major": "N/A (Less Than Bachelor'S Degree)",
+      "Major_Category": "Na"
+    },
+    {
+      "Course1D": 5000,
+      "Major": "Physical Sciences",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5001,
+      "Major": "Astronomy And Astrophysics",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5002,
+      "Major": "Atmospheric Sciences And Meteorology",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5003,
+      "Major": "Chemistry",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5004,
+      "Major": "Geology And Earth Science",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5005,
+      "Major": "Geosciences",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5006,
+      "Major": "Oceanography",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5007,
+      "Major": "Physics",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5098,
+      "Major": "Multi-Disciplinary Or General Science",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5102,
+      "Major": "Nuclear, Industrial Radiology, And Biological Technologies",
+      "Major_Category": "Physical Sciences"
+    },
+    {
+      "Course1D": 5200,
+      "Major": "Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5201,
+      "Major": "Educational Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5202,
+      "Major": "Clinical Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5203,
+      "Major": "Counseling Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5205,
+      "Major": "Industrial And Organizational Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5206,
+      "Major": "Social Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5299,
+      "Major": "Miscellaneous Psychology",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5403,
+      "Major": "Human Services And Community Organization",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 5404,
+      "Major": "Social Work",
+      "Major_Category": "Psychology & Social Work"
+    },
+    {
+      "Course1D": 4007,
+      "Major": "Interdisciplinary Social Sciences",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5500,
+      "Major": "General Social Sciences",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5501,
+      "Major": "Economics",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5503,
+      "Major": "Criminology",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5504,
+      "Major": "Geography",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5505,
+      "Major": "International Relations",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5506,
+      "Major": "Political Science And Government",
+      "Major_Category": "Social Science"
+    },
+    {
+      "Course1D": 5507,
+      "Major": "Sociology",
+      "Major_Category": "Social Science"
+    }
+  ]

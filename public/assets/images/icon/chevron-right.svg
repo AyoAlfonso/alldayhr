@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" width="24">
+  <defs>
+    <path id="path-1" opacity="1" fill-rule="evenodd" d="M10.5,17 C10.244,17 9.988,16.901999999999987 9.793,16.706999999999994 C9.402,16.315999999999974 9.402,15.684000000000026 9.793,15.293000000000006 L13.097999999999999,11.988 L9.918,8.694999999999993 C9.535,8.297000000000025 9.546,7.663999999999987 9.943,7.281000000000006 C10.341,6.898000000000025 10.974,6.908999999999992 11.357,7.305000000000007 L15.219000000000001,11.305000000000007 C15.597999999999999,11.697999999999979 15.593,12.321000000000026 15.207,12.706999999999994 L11.207,16.706999999999994 "/>
+    <mask id="mask-2" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <rect opacity="1" x="0" y="0" width="24" height="24" fill="Black"/>
+      <use xlink:href="#path-1" fill="White"/>
+    </mask>
+  </defs>
+  <g opacity="1">
+    <g opacity="1">
+      <use xlink:href="#path-1" fill="rgb(128,128,128)" fill-opacity="1"/>
+    </g>
+    <g mask="url(#mask-2)"/>
+  </g>
+</svg>

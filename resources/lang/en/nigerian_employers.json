@@ -1,0 +1,322 @@
+[
+    {
+     "Industry": "Consumer services",
+      "Name": "Aero Contractors",
+      "Sectors": "Airlines",
+      "HQ": "Ikeja",
+      "Founded": 1959,
+      "Notes": "State charter airline"
+    },
+    {
+      "Name": "Arik Air",
+      "Industry": "Consumer services",
+      "Sectors": "Airlines",
+      "HQ": "Ikeja",
+      "Founded": 2002,
+      "Notes": "Airline"
+    },
+    {
+      "Name": "Bates Cosse",
+      "Industry": "Consumer services",
+      "Sectors": "Media",
+      "HQ": "Lagos",
+      "Founded": 1995,
+      "Notes": "Marketing communications"
+    },
+    {
+      "Name": "Cassava Republic Press",
+      "Industry": "Consumer services",
+      "Sectors": "Publishing",
+      "HQ": "Abuja",
+      "Founded": 2006,
+      "Notes": "Publisher"
+    },
+    {
+      "Name": "Central Bank of Nigeria",
+      "Industry": "Financials",
+      "Sectors": "Accounting",
+      "HQ": "Abuja",
+      "Founded": 1958,
+      "Notes": "State-owned bank"
+    },
+    {
+      "Name": "Chanchangi Airlines",
+      "Industry": "Consumer services",
+      "Sectors": "Airlines",
+      "HQ": "Kaduna",
+      "Founded": 1994,
+      "Notes": "Airline"
+    },
+    {
+      "Name": "C&I Leasing Group plc",
+      "Industry": "Industrials",
+      "Sectors": "Marine transportation",
+      "HQ": "Lekki",
+      "Founded": 1990,
+      "Notes": "Leasing"
+    },
+    {
+      "Name": "Chocolate City Records",
+      "Industry": "Consumer services",
+      "Sectors": "Broadcasting & entertainment",
+      "HQ": "Lagos",
+      "Founded": 2005,
+      "Notes": "Music label founded by Audu Maikori"
+    },
+    {
+      "Name": "Dana Air",
+      "Industry": "Consumer services",
+      "Sectors": "Airlines",
+      "HQ": "Ikeja",
+      "Founded": 2008,
+      "Notes": "Regional airline"
+    },
+    {
+      "Name": "Dangote Cement",
+      "Industry": "Industrials",
+      "Sectors": "Building materials & fixtures",
+      "HQ": "Lagos",
+      "Founded": 1992,
+      "Notes": "Cement, part of Dangote Group"
+    },
+    {
+      "Name": "Dangote Group",
+      "Industry": "Conglomerates",
+      "Sectors": "–",
+      "HQ": "Lagos",
+      "Founded": 1981,
+      "Notes": "Cement, food and beverage, oil and gas"
+    },
+    {
+      "Name": "Diamond Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1990,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Ensure",
+      "Industry": "Financials",
+      "Sectors": "Full line insurance",
+      "HQ": "Lagos",
+      "Founded": 1993,
+      "Notes": "Insurance"
+    },
+    {
+      "Name": "First City Monument Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1982,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Fidelity Bank Nigeria",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1988,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "First Bank of Nigeria",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1894,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Guaranty Trust Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1990,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "John Holt plc",
+      "Industry": "Industrials",
+      "Sectors": "Diversified industrials",
+      "HQ": "Lagos",
+      "Founded": 1897,
+      "Notes": "Industrials, power, logistics"
+    },
+    {
+      "Name": "Julius Berger",
+      "Industry": "Industrials",
+      "Sectors": "Heavy construction",
+      "HQ": "Abuja",
+      "Founded": 1950,
+      "Notes": "Construction and development"
+    },
+    {
+      "Name": "Jumia",
+      "Industry": "Technology",
+      "Sectors": "Internet",
+      "HQ": "Ikeja",
+      "Founded": 2012,
+      "Notes": "E-commerce platform"
+    },
+    {
+      "Name": "Kabo Air",
+      "Industry": "Consumer services",
+      "Sectors": "Airlines",
+      "HQ": "Kano",
+      "Founded": 1980,
+      "Notes": "Airline"
+    },
+    {
+      "Name": "Kakawa Discount House Limited",
+      "Industry": "Financials",
+      "Sectors": "Investment services",
+      "HQ": "Lagos",
+      "Founded": 1995,
+      "Notes": "Discount house"
+    },
+    {
+      "Name": "Keystone Bank Limited",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 2011,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Mavin Records",
+      "Industry": "Consumer services",
+      "Sectors": "Broadcasting & entertainment",
+      "HQ": "Lagos",
+      "Founded": 2012,
+      "Notes": "Music label founded by Don Jazzy"
+    },
+    {
+      "Name": "Mikano International Limited",
+      "Industry": "Industrials",
+      "Sectors": "Diversified industrials",
+      "HQ": "Lagos",
+      "Founded": 1993,
+      "Notes": "Electrical power generation, real estate and construction"
+    },
+    {
+      "Name": "Nigerian National Petroleum Corporation (NNPC)",
+      "Industry": "Oil & gas",
+      "Sectors": "Exploration & production",
+      "HQ": "Abuja",
+      "Founded": 1977,
+      "Notes": "State-owned oil"
+    },
+    {
+      "Name": "Nigerian Television Authority",
+      "Industry": "Consumer services",
+      "Sectors": "Broadcasting & entertainment",
+      "HQ": "Abuja",
+      "Founded": 1977,
+      "Notes": "State-owned television"
+    },
+    {
+      "Name": "Oando",
+      "Industry": "Oil & gas",
+      "Sectors": "Exploration & production",
+      "HQ": "Lagos",
+      "Founded": 1956,
+      "Notes": "Petrochemical and energy"
+    },
+    {
+      "Name": "ROCAD Construction Limited",
+      "Industry": "Industrials",
+      "Sectors": "Heavy construction",
+      "HQ": "Abuja",
+      "Founded": 2002,
+      "Notes": "Construction"
+    },
+    {
+      "Name": "Shell Nigeria",
+      "Industry": "Oil & gas",
+      "Sectors": "Exploration & production",
+      "HQ": "Abuja",
+      "Founded": 1937,
+      "Notes": "Part of Royal Dutch Shell (Netherlands)"
+    },
+    {
+      "Name": "Skye Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 2006,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Spring Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 2004,
+      "Notes": "Bank, defunct 2011"
+    },
+    {
+      "Name": "Sterling Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1960,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "The Tide",
+      "Industry": "Consumer services",
+      "Sectors": "Publishing",
+      "HQ": "Port Harcourt",
+      "Founded": 1971,
+      "Notes": "State-owned newspaper"
+    },
+    {
+      "Name": "Transnational Corporation of Nigeria",
+      "Industry": "Conglomerates",
+      "Sectors": "–",
+      "HQ": "Lagos",
+      "Founded": 2004,
+      "Notes": "Food and beverage, power, hotels"
+    },
+    {
+      "Name": "Union Bank of Nigeria",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1917,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "United Africa Company of Nigeria",
+      "Industry": "Conglomerates",
+      "Sectors": "–",
+      "HQ": "Lagos",
+      "Founded": 1931,
+      "Notes": "Logistics, real estate, industrials"
+    },
+    {
+      "Name": "United Bank for Africa",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1949,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Wema Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1945,
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Zenith Bank",
+      "Industry": "Financials",
+      "Sectors": "Banks",
+      "HQ": "Lagos",
+      "Founded": 1990,
+      "Notes": "Commercial bank"
+    }
+  ]

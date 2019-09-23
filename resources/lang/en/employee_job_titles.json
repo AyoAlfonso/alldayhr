@@ -1,0 +1,3467 @@
+[
+  {
+    "Occupation": "Accountant"
+  },
+  {
+    "Occupation": "Accounts Assistant"
+  },
+  {
+    "Occupation": "Accounts Clerk"
+  },
+  {
+    "Occupation": "Accounts Manager"
+  },
+  {
+    "Occupation": "Accounts Staff"
+  },
+  {
+    "Occupation": "Acoustic Engineer"
+  },
+  {
+    "Occupation": "Actor"
+  },
+  {
+    "Occupation": "Actress"
+  },
+  {
+    "Occupation": "Actuary"
+  },
+  {
+    "Occupation": "Acupuncturist"
+  },
+  {
+    "Occupation": "Adjustor"
+  },
+  {
+    "Occupation": "Administration Assistant"
+  },
+  {
+    "Occupation": "Administration Clerk"
+  },
+  {
+    "Occupation": "Administration Manager"
+  },
+  {
+    "Occupation": "Administration Staff"
+  },
+  {
+    "Occupation": "Administrator"
+  },
+  {
+    "Occupation": "Advertising Agent"
+  },
+  {
+    "Occupation": "Advertising Assistant"
+  },
+  {
+    "Occupation": "Advertising Clerk"
+  },
+  {
+    "Occupation": "Advertising Contractor"
+  },
+  {
+    "Occupation": "Advertising Executive"
+  },
+  {
+    "Occupation": "Advertising Manager"
+  },
+  {
+    "Occupation": "Advertising Staff"
+  },
+  {
+    "Occupation": "Aerial Erector"
+  },
+  {
+    "Occupation": "Aerobic Instructor"
+  },
+  {
+    "Occupation": "Aeronautical Engineer"
+  },
+  {
+    "Occupation": "Agent"
+  },
+  {
+    "Occupation": "Air Traffic Controller"
+  },
+  {
+    "Occupation": "Aircraft Designer"
+  },
+  {
+    "Occupation": "Aircraft Engineer"
+  },
+  {
+    "Occupation": "Aircraft Maintenance Engineer"
+  },
+  {
+    "Occupation": "Aircraft Surface Finisher"
+  },
+  {
+    "Occupation": "Airman"
+  },
+  {
+    "Occupation": "Airport Controller"
+  },
+  {
+    "Occupation": "Airport Manager"
+  },
+  {
+    "Occupation": "Almoner"
+  },
+  {
+    "Occupation": "Ambulance Controller"
+  },
+  {
+    "Occupation": "Ambulance Crew"
+  },
+  {
+    "Occupation": "Ambulance Driver"
+  },
+  {
+    "Occupation": "Amusement Arcade Worker"
+  },
+  {
+    "Occupation": "Anaesthetist"
+  },
+  {
+    "Occupation": "Analyst"
+  },
+  {
+    "Occupation": "Analytical Chemist"
+  },
+  {
+    "Occupation": "Animal Breeder"
+  },
+  {
+    "Occupation": "Anthropologist"
+  },
+  {
+    "Occupation": "Antique Dealer"
+  },
+  {
+    "Occupation": "Applications Engineer"
+  },
+  {
+    "Occupation": "Applications Programmer"
+  },
+  {
+    "Occupation": "Arbitrator"
+  },
+  {
+    "Occupation": "Arborist"
+  },
+  {
+    "Occupation": "Archaeologist"
+  },
+  {
+    "Occupation": "Architect"
+  },
+  {
+    "Occupation": "Archivist"
+  },
+  {
+    "Occupation": "Area Manager"
+  },
+  {
+    "Occupation": "Armourer"
+  },
+  {
+    "Occupation": "Aromatherapist"
+  },
+  {
+    "Occupation": "Art Critic"
+  },
+  {
+    "Occupation": "Art Dealer"
+  },
+  {
+    "Occupation": "Art Historian"
+  },
+  {
+    "Occupation": "Art Restorer"
+  },
+  {
+    "Occupation": "Artexer"
+  },
+  {
+    "Occupation": "Artist"
+  },
+  {
+    "Occupation": "Arts"
+  },
+  {
+    "Occupation": "Assembly Worker"
+  },
+  {
+    "Occupation": "Assessor"
+  },
+  {
+    "Occupation": "Assistant"
+  },
+  {
+    "Occupation": "Assistant Caretaker"
+  },
+  {
+    "Occupation": "Assistant Cook"
+  },
+  {
+    "Occupation": "Assistant Manager"
+  },
+  {
+    "Occupation": "Assistant Nurse"
+  },
+  {
+    "Occupation": "Assistant Teacher"
+  },
+  {
+    "Occupation": "Astrologer"
+  },
+  {
+    "Occupation": "Astronomer"
+  },
+  {
+    "Occupation": "Attendant"
+  },
+  {
+    "Occupation": "Au Pair"
+  },
+  {
+    "Occupation": "Auction Worker"
+  },
+  {
+    "Occupation": "Auctioneer"
+  },
+  {
+    "Occupation": "Audiologist"
+  },
+  {
+    "Occupation": "Audit Clerk"
+  },
+  {
+    "Occupation": "Audit Manager"
+  },
+  {
+    "Occupation": "Auditor"
+  },
+  {
+    "Occupation": "Auto Electrician"
+  },
+  {
+    "Occupation": "Auxiliary Nurse"
+  },
+  {
+    "Occupation": "Bacon Curer"
+  },
+  {
+    "Occupation": "Baggage Handler"
+  },
+  {
+    "Occupation": "Bailiff"
+  },
+  {
+    "Occupation": "Baker"
+  },
+  {
+    "Occupation": "Bakery Assistant"
+  },
+  {
+    "Occupation": "Bakery Manager"
+  },
+  {
+    "Occupation": "Bakery Operator"
+  },
+  {
+    "Occupation": "Balloonist"
+  },
+  {
+    "Occupation": "Bank Clerk"
+  },
+  {
+    "Occupation": "Bank Manager"
+  },
+  {
+    "Occupation": "Bank Messenger"
+  },
+  {
+    "Occupation": "Baptist Minister"
+  },
+  {
+    "Occupation": "Bar Manager"
+  },
+  {
+    "Occupation": "Bar Steward"
+  },
+  {
+    "Occupation": "Barber"
+  },
+  {
+    "Occupation": "Barmaid"
+  },
+  {
+    "Occupation": "Barman"
+  },
+  {
+    "Occupation": "Barrister"
+  },
+  {
+    "Occupation": "Beautician"
+  },
+  {
+    "Occupation": "Beauty Therapist"
+  },
+  {
+    "Occupation": "Betting Shop"
+  },
+  {
+    "Occupation": "Bill Poster"
+  },
+  {
+    "Occupation": "Bingo Caller"
+  },
+  {
+    "Occupation": "Biochemist"
+  },
+  {
+    "Occupation": "Biologist"
+  },
+  {
+    "Occupation": "Blacksmith"
+  },
+  {
+    "Occupation": "Blind Assembler"
+  },
+  {
+    "Occupation": "Blind Fitter"
+  },
+  {
+    "Occupation": "Blinds Installer"
+  },
+  {
+    "Occupation": "Boat Builder"
+  },
+  {
+    "Occupation": "Body Fitter"
+  },
+  {
+    "Occupation": "Bodyguard"
+  },
+  {
+    "Occupation": "Bodyshop"
+  },
+  {
+    "Occupation": "Book Binder"
+  },
+  {
+    "Occupation": "Book Seller"
+  },
+  {
+    "Occupation": "Book-Keeper"
+  },
+  {
+    "Occupation": "Booking Agent"
+  },
+  {
+    "Occupation": "Booking Clerk"
+  },
+  {
+    "Occupation": "Bookmaker"
+  },
+  {
+    "Occupation": "Botanist"
+  },
+  {
+    "Occupation": "Branch Manager"
+  },
+  {
+    "Occupation": "Breeder"
+  },
+  {
+    "Occupation": "Brewer"
+  },
+  {
+    "Occupation": "Brewery Manager"
+  },
+  {
+    "Occupation": "Brewery Worker"
+  },
+  {
+    "Occupation": "Bricklayer"
+  },
+  {
+    "Occupation": "Broadcaster"
+  },
+  {
+    "Occupation": "Builder"
+  },
+  {
+    "Occupation": "Builders Labourer"
+  },
+  {
+    "Occupation": "Building Advisor"
+  },
+  {
+    "Occupation": "Building Control"
+  },
+  {
+    "Occupation": "Building Engineer"
+  },
+  {
+    "Occupation": "Building Estimator"
+  },
+  {
+    "Occupation": "Building Foreman"
+  },
+  {
+    "Occupation": "Building Inspector"
+  },
+  {
+    "Occupation": "Building Manager"
+  },
+  {
+    "Occupation": "Building Surveyor"
+  },
+  {
+    "Occupation": "Bursar"
+  },
+  {
+    "Occupation": "Bus Company"
+  },
+  {
+    "Occupation": "Bus Conductor"
+  },
+  {
+    "Occupation": "Bus Driver"
+  },
+  {
+    "Occupation": "Bus Mechanic"
+  },
+  {
+    "Occupation": "Bus Valeter"
+  },
+  {
+    "Occupation": "Business Consultant"
+  },
+  {
+    "Occupation": "Business Proprietor"
+  },
+  {
+    "Occupation": "Butcher"
+  },
+  {
+    "Occupation": "Butchery Manager"
+  },
+  {
+    "Occupation": "Butler"
+  },
+  {
+    "Occupation": "Buyer"
+  },
+  {
+    "Occupation": "Cab Driver"
+  },
+  {
+    "Occupation": "Cabinet Maker"
+  },
+  {
+    "Occupation": "Cable Contractor"
+  },
+  {
+    "Occupation": "Cable Jointer"
+  },
+  {
+    "Occupation": "Cable TV Installer"
+  },
+  {
+    "Occupation": "Cafe Owner"
+  },
+  {
+    "Occupation": "Cafe Staff"
+  },
+  {
+    "Occupation": "Cafe Worker"
+  },
+  {
+    "Occupation": "Calibration Manager"
+  },
+  {
+    "Occupation": "Camera Repairer"
+  },
+  {
+    "Occupation": "Cameraman"
+  },
+  {
+    "Occupation": "Car Dealer"
+  },
+  {
+    "Occupation": "Car Delivery Driver"
+  },
+  {
+    "Occupation": "Car Park Attendant"
+  },
+  {
+    "Occupation": "Car Salesman"
+  },
+  {
+    "Occupation": "Car Valet"
+  },
+  {
+    "Occupation": "Car Wash Attendant"
+  },
+  {
+    "Occupation": "Care Assistant"
+  },
+  {
+    "Occupation": "Care Manager"
+  },
+  {
+    "Occupation": "Careers Advisor"
+  },
+  {
+    "Occupation": "Careers Officer"
+  },
+  {
+    "Occupation": "Caretaker"
+  },
+  {
+    "Occupation": "Cargo Operator"
+  },
+  {
+    "Occupation": "Carpenter"
+  },
+  {
+    "Occupation": "Carpet Cleaner"
+  },
+  {
+    "Occupation": "Carpet Fitter"
+  },
+  {
+    "Occupation": "Carpet Retailer"
+  },
+  {
+    "Occupation": "Carphone Fitter"
+  },
+  {
+    "Occupation": "Cartographer"
+  },
+  {
+    "Occupation": "Cartoonist"
+  },
+  {
+    "Occupation": "Cashier"
+  },
+  {
+    "Occupation": "Casual Worker"
+  },
+  {
+    "Occupation": "Caterer"
+  },
+  {
+    "Occupation": "Catering Consultant"
+  },
+  {
+    "Occupation": "Catering Manager"
+  },
+  {
+    "Occupation": "Catering Staff"
+  },
+  {
+    "Occupation": "Caulker"
+  },
+  {
+    "Occupation": "Ceiling Contractor"
+  },
+  {
+    "Occupation": "Ceiling Fixer"
+  },
+  {
+    "Occupation": "Cellarman"
+  },
+  {
+    "Occupation": "Chambermaid"
+  },
+  {
+    "Occupation": "Chandler"
+  },
+  {
+    "Occupation": "Chaplain"
+  },
+  {
+    "Occupation": "Charge Hand"
+  },
+  {
+    "Occupation": "Charity Worker"
+  },
+  {
+    "Occupation": "Chartered"
+  },
+  {
+    "Occupation": "Chartered Accountant"
+  },
+  {
+    "Occupation": "Chauffeur"
+  },
+  {
+    "Occupation": "Chef"
+  },
+  {
+    "Occupation": "Chemist"
+  },
+  {
+    "Occupation": "Chicken Chaser"
+  },
+  {
+    "Occupation": "Child Minder"
+  },
+  {
+    "Occupation": "Childminder"
+  },
+  {
+    "Occupation": "Chimney Sweep"
+  },
+  {
+    "Occupation": "China Restorer"
+  },
+  {
+    "Occupation": "Chiropodist"
+  },
+  {
+    "Occupation": "Chiropractor"
+  },
+  {
+    "Occupation": "Choreographer"
+  },
+  {
+    "Occupation": "Church Officer"
+  },
+  {
+    "Occupation": "Church Warden"
+  },
+  {
+    "Occupation": "Cinema Manager"
+  },
+  {
+    "Occupation": "Circus Proprietor"
+  },
+  {
+    "Occupation": "Circus Worker"
+  },
+  {
+    "Occupation": "Civil Engineer"
+  },
+  {
+    "Occupation": "Civil Servant"
+  },
+  {
+    "Occupation": "Claims Adjustor"
+  },
+  {
+    "Occupation": "Claims Assessor"
+  },
+  {
+    "Occupation": "Claims Manager"
+  },
+  {
+    "Occupation": "Clairvoyant"
+  },
+  {
+    "Occupation": "Classroom Aide"
+  },
+  {
+    "Occupation": "Cleaner"
+  },
+  {
+    "Occupation": "Clergyman"
+  },
+  {
+    "Occupation": "Cleric"
+  },
+  {
+    "Occupation": "Clerk"
+  },
+  {
+    "Occupation": "Commissioned"
+  },
+  {
+    "Occupation": "Consultant"
+  },
+  {
+    "Occupation": "Coroner"
+  },
+  {
+    "Occupation": "Councillor"
+  },
+  {
+    "Occupation": "Counsellor"
+  },
+  {
+    "Occupation": "Dealer"
+  },
+  {
+    "Occupation": "Decorator"
+  },
+  {
+    "Occupation": "Delivery Driver"
+  },
+  {
+    "Occupation": "Doctor"
+  },
+  {
+    "Occupation": "Driver"
+  },
+  {
+    "Occupation": "Economist"
+  },
+  {
+    "Occupation": "Editor"
+  },
+  {
+    "Occupation": "Employee"
+  },
+  {
+    "Occupation": "Employment"
+  },
+  {
+    "Occupation": "Engineer"
+  },
+  {
+    "Occupation": "English Teacher"
+  },
+  {
+    "Occupation": "Entertainer"
+  },
+  {
+    "Occupation": "Envoy"
+  },
+  {
+    "Occupation": "Executive"
+  },
+  {
+    "Occupation": "Farmer"
+  },
+  {
+    "Occupation": "Fireman"
+  },
+  {
+    "Occupation": "Floor Layer"
+  },
+  {
+    "Occupation": "Floor Manager"
+  },
+  {
+    "Occupation": "Florist"
+  },
+  {
+    "Occupation": "Flour Miller"
+  },
+  {
+    "Occupation": "Flower Arranger"
+  },
+  {
+    "Occupation": "Flying Instructor"
+  },
+  {
+    "Occupation": "Foam Convertor"
+  },
+  {
+    "Occupation": "Food Processor"
+  },
+  {
+    "Occupation": "Footballer"
+  },
+  {
+    "Occupation": "Foreman"
+  },
+  {
+    "Occupation": "Forensic Scientist"
+  },
+  {
+    "Occupation": "Forest Ranger"
+  },
+  {
+    "Occupation": "Forester"
+  },
+  {
+    "Occupation": "Fork Lift Truck Driver"
+  },
+  {
+    "Occupation": "Forwarding Agent"
+  },
+  {
+    "Occupation": "Foster Parent"
+  },
+  {
+    "Occupation": "Foundry Worker"
+  },
+  {
+    "Occupation": "Fraud Investigator"
+  },
+  {
+    "Occupation": "French Polisher"
+  },
+  {
+    "Occupation": "Fruiterer"
+  },
+  {
+    "Occupation": "Fuel Merchant"
+  },
+  {
+    "Occupation": "Fund Raiser"
+  },
+  {
+    "Occupation": "Funeral Director"
+  },
+  {
+    "Occupation": "Funeral Furnisher"
+  },
+  {
+    "Occupation": "Furnace Man"
+  },
+  {
+    "Occupation": "Furniture Dealer"
+  },
+  {
+    "Occupation": "Furniture Remover"
+  },
+  {
+    "Occupation": "Furniture Restorer"
+  },
+  {
+    "Occupation": "Furrier"
+  },
+  {
+    "Occupation": "Gallery Owner"
+  },
+  {
+    "Occupation": "Gambler"
+  },
+  {
+    "Occupation": "Gamekeeper"
+  },
+  {
+    "Occupation": "Gaming Board Inspector"
+  },
+  {
+    "Occupation": "Gaming Club Manager"
+  },
+  {
+    "Occupation": "Gaming Club Proprietor"
+  },
+  {
+    "Occupation": "Garage Attendant"
+  },
+  {
+    "Occupation": "Garage Foreman"
+  },
+  {
+    "Occupation": "Garage Manager"
+  },
+  {
+    "Occupation": "Garda"
+  },
+  {
+    "Occupation": "Garden Designer"
+  },
+  {
+    "Occupation": "Gardener"
+  },
+  {
+    "Occupation": "Gas Fitter"
+  },
+  {
+    "Occupation": "Gas Mechanic"
+  },
+  {
+    "Occupation": "Gas Technician"
+  },
+  {
+    "Occupation": "Gate Keeper"
+  },
+  {
+    "Occupation": "Genealogist"
+  },
+  {
+    "Occupation": "General Practitioner"
+  },
+  {
+    "Occupation": "Geologist"
+  },
+  {
+    "Occupation": "Geophysicist"
+  },
+  {
+    "Occupation": "Gilder"
+  },
+  {
+    "Occupation": "Glass Worker"
+  },
+  {
+    "Occupation": "Glazier"
+  },
+  {
+    "Occupation": "Goldsmith"
+  },
+  {
+    "Occupation": "Golf Caddy"
+  },
+  {
+    "Occupation": "Golf Club Professional"
+  },
+  {
+    "Occupation": "Golfer"
+  },
+  {
+    "Occupation": "Goods Handler"
+  },
+  {
+    "Occupation": "Governor"
+  },
+  {
+    "Occupation": "Granite Technician"
+  },
+  {
+    "Occupation": "Graphic Designer"
+  },
+  {
+    "Occupation": "Graphologist"
+  },
+  {
+    "Occupation": "Grave Digger"
+  },
+  {
+    "Occupation": "Gravel Merchant"
+  },
+  {
+    "Occupation": "Green Keeper"
+  },
+  {
+    "Occupation": "Greengrocer"
+  },
+  {
+    "Occupation": "Grocer"
+  },
+  {
+    "Occupation": "Groom"
+  },
+  {
+    "Occupation": "Ground Worker"
+  },
+  {
+    "Occupation": "Groundsman"
+  },
+  {
+    "Occupation": "Guest House Owner"
+  },
+  {
+    "Occupation": "Guest House Proprietor"
+  },
+  {
+    "Occupation": "Gun Smith"
+  },
+  {
+    "Occupation": "Gynaecologist"
+  },
+  {
+    "Occupation": "HGV Driver"
+  },
+  {
+    "Occupation": "HGV Mechanic"
+  },
+  {
+    "Occupation": "Hairdresser"
+  },
+  {
+    "Occupation": "Handyman"
+  },
+  {
+    "Occupation": "Hardware Dealer"
+  },
+  {
+    "Occupation": "Haulage Contractor"
+  },
+  {
+    "Occupation": "Hawker"
+  },
+  {
+    "Occupation": "Health Advisor"
+  },
+  {
+    "Occupation": "Health And Safety"
+  },
+  {
+    "Occupation": "Health Care Assistant"
+  },
+  {
+    "Occupation": "Health Consultant"
+  },
+  {
+    "Occupation": "Health Nurse"
+  },
+  {
+    "Occupation": "Health Planner"
+  },
+  {
+    "Occupation": "Health Service"
+  },
+  {
+    "Occupation": "Health Therapist"
+  },
+  {
+    "Occupation": "Health Visitor"
+  },
+  {
+    "Occupation": "Hearing Therapist"
+  },
+  {
+    "Occupation": "Heating Engineer"
+  },
+  {
+    "Occupation": "Herbalist"
+  },
+  {
+    "Occupation": "Highway Inspector"
+  },
+  {
+    "Occupation": "Hire Car Driver"
+  },
+  {
+    "Occupation": "Historian"
+  },
+  {
+    "Occupation": "History Teacher"
+  },
+  {
+    "Occupation": "Hod Carrier"
+  },
+  {
+    "Occupation": "Home Economist"
+  },
+  {
+    "Occupation": "Home Help"
+  },
+  {
+    "Occupation": "Homecare Manager"
+  },
+  {
+    "Occupation": "Homeopath"
+  },
+  {
+    "Occupation": "Homeworker"
+  },
+  {
+    "Occupation": "Hop Merchant"
+  },
+  {
+    "Occupation": "Horse Breeder"
+  },
+  {
+    "Occupation": "Horse Dealer"
+  },
+  {
+    "Occupation": "Horse Riding Instructor"
+  },
+  {
+    "Occupation": "Horse Trader"
+  },
+  {
+    "Occupation": "Horse Trainer"
+  },
+  {
+    "Occupation": "Horticultural Consultant"
+  },
+  {
+    "Occupation": "Horticulturalist"
+  },
+  {
+    "Occupation": "Hosiery Mechanic"
+  },
+  {
+    "Occupation": "Hosiery Worker"
+  },
+  {
+    "Occupation": "Hospital Consultant"
+  },
+  {
+    "Occupation": "Hospital Doctor"
+  },
+  {
+    "Occupation": "Hospital Manager"
+  },
+  {
+    "Occupation": "Hospital Orderly"
+  },
+  {
+    "Occupation": "Hospital Technician"
+  },
+  {
+    "Occupation": "Hospital Warden"
+  },
+  {
+    "Occupation": "Hospital Worker"
+  },
+  {
+    "Occupation": "Hostess"
+  },
+  {
+    "Occupation": "Hot Foil Printer"
+  },
+  {
+    "Occupation": "Hotel Consultant"
+  },
+  {
+    "Occupation": "Hotel Worker"
+  },
+  {
+    "Occupation": "Hotelier"
+  },
+  {
+    "Occupation": "Househusband"
+  },
+  {
+    "Occupation": "Housekeeper"
+  },
+  {
+    "Occupation": "Housewife"
+  },
+  {
+    "Occupation": "Housing Assistant"
+  },
+  {
+    "Occupation": "Housing Officer"
+  },
+  {
+    "Occupation": "Housing Supervisor"
+  },
+  {
+    "Occupation": "Hygienist"
+  },
+  {
+    "Occupation": "Hypnotherapist"
+  },
+  {
+    "Occupation": "Hypnotist"
+  },
+  {
+    "Occupation": "IT Consultant"
+  },
+  {
+    "Occupation": "IT Manager"
+  },
+  {
+    "Occupation": "IT Trainer"
+  },
+  {
+    "Occupation": "Ice Cream Vendor"
+  },
+  {
+    "Occupation": "Illustrator"
+  },
+  {
+    "Occupation": "Immigration Officer"
+  },
+  {
+    "Occupation": "Import Consultant"
+  },
+  {
+    "Occupation": "Importer"
+  },
+  {
+    "Occupation": "Independent Means"
+  },
+  {
+    "Occupation": "Induction Moulder"
+  },
+  {
+    "Occupation": "Industrial Chemist"
+  },
+  {
+    "Occupation": "Industrial Consultant"
+  },
+  {
+    "Occupation": "Injection Moulder"
+  },
+  {
+    "Occupation": "Inspector"
+  },
+  {
+    "Occupation": "Instructor"
+  },
+  {
+    "Occupation": "Instrument Engineer"
+  },
+  {
+    "Occupation": "Instrument Maker"
+  },
+  {
+    "Occupation": "Instrument Supervisor"
+  },
+  {
+    "Occupation": "Instrument Technician"
+  },
+  {
+    "Occupation": "Insurance Agent"
+  },
+  {
+    "Occupation": "Insurance Assessor"
+  },
+  {
+    "Occupation": "Insurance Broker"
+  },
+  {
+    "Occupation": "Insurance Consultant"
+  },
+  {
+    "Occupation": "Insurance Inspector"
+  },
+  {
+    "Occupation": "Insurance Staff"
+  },
+  {
+    "Occupation": "Interior Decorator"
+  },
+  {
+    "Occupation": "Interior Designer"
+  },
+  {
+    "Occupation": "Interpreter"
+  },
+  {
+    "Occupation": "Interviewer"
+  },
+  {
+    "Occupation": "Inventor"
+  },
+  {
+    "Occupation": "Investigator"
+  },
+  {
+    "Occupation": "Investment Advisor"
+  },
+  {
+    "Occupation": "Investment Banker"
+  },
+  {
+    "Occupation": "Investment Manager"
+  },
+  {
+    "Occupation": "Investment Strategist"
+  },
+  {
+    "Occupation": "Ironmonger"
+  },
+  {
+    "Occupation": "Janitor"
+  },
+  {
+    "Occupation": "Jazz Composer"
+  },
+  {
+    "Occupation": "Jeweller"
+  },
+  {
+    "Occupation": "Jewellery"
+  },
+  {
+    "Occupation": "Jockey"
+  },
+  {
+    "Occupation": "Joiner"
+  },
+  {
+    "Occupation": "Joinery Consultant"
+  },
+  {
+    "Occupation": "Journalist"
+  },
+  {
+    "Occupation": "Judge"
+  },
+  {
+    "Occupation": "Keep Fit Instructor"
+  },
+  {
+    "Occupation": "Kennel Hand"
+  },
+  {
+    "Occupation": "Kitchen Worker"
+  },
+  {
+    "Occupation": "Knitter"
+  },
+  {
+    "Occupation": "Labelling Operator"
+  },
+  {
+    "Occupation": "Laboratory Analyst"
+  },
+  {
+    "Occupation": "Labourer"
+  },
+  {
+    "Occupation": "Laminator"
+  },
+  {
+    "Occupation": "Lampshade Maker"
+  },
+  {
+    "Occupation": "Land Agent"
+  },
+  {
+    "Occupation": "Land Surveyor"
+  },
+  {
+    "Occupation": "Landlady"
+  },
+  {
+    "Occupation": "Landlord"
+  },
+  {
+    "Occupation": "Landowner"
+  },
+  {
+    "Occupation": "Landworker"
+  },
+  {
+    "Occupation": "Lathe Operator"
+  },
+  {
+    "Occupation": "Laundry Staff"
+  },
+  {
+    "Occupation": "Laundry Worker"
+  },
+  {
+    "Occupation": "Lavatory Attendant"
+  },
+  {
+    "Occupation": "Law Clerk"
+  },
+  {
+    "Occupation": "Lawn Mower"
+  },
+  {
+    "Occupation": "Lawyer"
+  },
+  {
+    "Occupation": "Leaflet Distributor"
+  },
+  {
+    "Occupation": "Leather Worker"
+  },
+  {
+    "Occupation": "Lecturer"
+  },
+  {
+    "Occupation": "Ledger Clerk"
+  },
+  {
+    "Occupation": "Legal Advisor"
+  },
+  {
+    "Occupation": "Legal Assistant"
+  },
+  {
+    "Occupation": "Legal Executive"
+  },
+  {
+    "Occupation": "Legal Secretary"
+  },
+  {
+    "Occupation": "Letting Agent"
+  },
+  {
+    "Occupation": "Liaison Officer"
+  },
+  {
+    "Occupation": "Librarian"
+  },
+  {
+    "Occupation": "Library Manager"
+  },
+  {
+    "Occupation": "Licensed Premises"
+  },
+  {
+    "Occupation": "Licensee"
+  },
+  {
+    "Occupation": "Licensing"
+  },
+  {
+    "Occupation": "Lifeguard"
+  },
+  {
+    "Occupation": "Lift Attendant"
+  },
+  {
+    "Occupation": "Lift Engineer"
+  },
+  {
+    "Occupation": "Lighterman"
+  },
+  {
+    "Occupation": "Lighthouse Keeper"
+  },
+  {
+    "Occupation": "Lighting Designer"
+  },
+  {
+    "Occupation": "Lighting Technician"
+  },
+  {
+    "Occupation": "Lime Kiln Attendant"
+  },
+  {
+    "Occupation": "Line Manager"
+  },
+  {
+    "Occupation": "Line Worker"
+  },
+  {
+    "Occupation": "Lineman"
+  },
+  {
+    "Occupation": "Linguist"
+  },
+  {
+    "Occupation": "Literary Agent"
+  },
+  {
+    "Occupation": "Literary Editor"
+  },
+  {
+    "Occupation": "Lithographer"
+  },
+  {
+    "Occupation": "Litigation Manager"
+  },
+  {
+    "Occupation": "Loans Manager"
+  },
+  {
+    "Occupation": "Local Government"
+  },
+  {
+    "Occupation": "Lock Keeper"
+  },
+  {
+    "Occupation": "Locksmith"
+  },
+  {
+    "Occupation": "Locum Pharmacist"
+  },
+  {
+    "Occupation": "Log Merchant"
+  },
+  {
+    "Occupation": "Lorry Driver"
+  },
+  {
+    "Occupation": "Loss Adjustor"
+  },
+  {
+    "Occupation": "Loss Assessor"
+  },
+  {
+    "Occupation": "Lumberjack"
+  },
+  {
+    "Occupation": "Machine Fitters"
+  },
+  {
+    "Occupation": "Machine Minder"
+  },
+  {
+    "Occupation": "Machine Operator"
+  },
+  {
+    "Occupation": "Machine Setter"
+  },
+  {
+    "Occupation": "Machine Tool"
+  },
+  {
+    "Occupation": "Machine Tool Fitter"
+  },
+  {
+    "Occupation": "Machinist"
+  },
+  {
+    "Occupation": "Magician"
+  },
+  {
+    "Occupation": "Magistrate"
+  },
+  {
+    "Occupation": "Magistrates Clerk"
+  },
+  {
+    "Occupation": "Maid"
+  },
+  {
+    "Occupation": "Maintenance Fitter"
+  },
+  {
+    "Occupation": "Make Up Artist"
+  },
+  {
+    "Occupation": "Manicurist"
+  },
+  {
+    "Occupation": "Manufacturing"
+  },
+  {
+    "Occupation": "Map Mounter"
+  },
+  {
+    "Occupation": "Marble Finisher"
+  },
+  {
+    "Occupation": "Marble Mason"
+  },
+  {
+    "Occupation": "Marine Broker"
+  },
+  {
+    "Occupation": "Marine Consultant"
+  },
+  {
+    "Occupation": "Marine Electrician"
+  },
+  {
+    "Occupation": "Marine Engineer"
+  },
+  {
+    "Occupation": "Marine Geologist"
+  },
+  {
+    "Occupation": "Marine Pilot"
+  },
+  {
+    "Occupation": "Marine Surveyor"
+  },
+  {
+    "Occupation": "Market Gardener"
+  },
+  {
+    "Occupation": "Market Research"
+  },
+  {
+    "Occupation": "Market Researcher"
+  },
+  {
+    "Occupation": "Market Trader"
+  },
+  {
+    "Occupation": "Marketing Agent"
+  },
+  {
+    "Occupation": "Marketing Assistant"
+  },
+  {
+    "Occupation": "Marketing Coordinator"
+  },
+  {
+    "Occupation": "Marketing Director"
+  },
+  {
+    "Occupation": "Marketing Manager"
+  },
+  {
+    "Occupation": "Marquee Erector"
+  },
+  {
+    "Occupation": "Massage Therapist"
+  },
+  {
+    "Occupation": "Masseur"
+  },
+  {
+    "Occupation": "Masseuse"
+  },
+  {
+    "Occupation": "Master Mariner"
+  },
+  {
+    "Occupation": "Materials Controller"
+  },
+  {
+    "Occupation": "Materials Manager"
+  },
+  {
+    "Occupation": "Mathematician"
+  },
+  {
+    "Occupation": "Maths Teacher"
+  },
+  {
+    "Occupation": "Matron"
+  },
+  {
+    "Occupation": "Mattress Maker"
+  },
+  {
+    "Occupation": "Meat Inspector"
+  },
+  {
+    "Occupation": "Meat Wholesaler"
+  },
+  {
+    "Occupation": "Mechanic"
+  },
+  {
+    "Occupation": "Medal Dealer"
+  },
+  {
+    "Occupation": "Medical Advisor"
+  },
+  {
+    "Occupation": "Medical Assistant"
+  },
+  {
+    "Occupation": "Medical Consultant"
+  },
+  {
+    "Occupation": "Medical Officer"
+  },
+  {
+    "Occupation": "Medical Physicist"
+  },
+  {
+    "Occupation": "Medical Practitioner"
+  },
+  {
+    "Occupation": "Medical Researcher"
+  },
+  {
+    "Occupation": "Medical Secretary"
+  },
+  {
+    "Occupation": "Medical Student"
+  },
+  {
+    "Occupation": "Medical Supplier"
+  },
+  {
+    "Occupation": "Medical Technician"
+  },
+  {
+    "Occupation": "Merchandiser"
+  },
+  {
+    "Occupation": "Merchant"
+  },
+  {
+    "Occupation": "Merchant Banker"
+  },
+  {
+    "Occupation": "Merchant Seaman"
+  },
+  {
+    "Occupation": "Messenger"
+  },
+  {
+    "Occupation": "Metal Dealer"
+  },
+  {
+    "Occupation": "Metal Engineer"
+  },
+  {
+    "Occupation": "Metal Polisher"
+  },
+  {
+    "Occupation": "Metal Worker"
+  },
+  {
+    "Occupation": "Metallurgist"
+  },
+  {
+    "Occupation": "Meteorologist"
+  },
+  {
+    "Occupation": "Meter Reader"
+  },
+  {
+    "Occupation": "Microbiologist"
+  },
+  {
+    "Occupation": "Midwife"
+  },
+  {
+    "Occupation": "Military Leader"
+  },
+  {
+    "Occupation": "Milklady"
+  },
+  {
+    "Occupation": "Milkman"
+  },
+  {
+    "Occupation": "Mill Operator"
+  },
+  {
+    "Occupation": "Mill Worker"
+  },
+  {
+    "Occupation": "Miller"
+  },
+  {
+    "Occupation": "Milliner"
+  },
+  {
+    "Occupation": "Millwright"
+  },
+  {
+    "Occupation": "Miner"
+  },
+  {
+    "Occupation": "Mineralologist"
+  },
+  {
+    "Occupation": "Minibus Driver"
+  },
+  {
+    "Occupation": "Minicab Driver"
+  },
+  {
+    "Occupation": "Mining Consultant"
+  },
+  {
+    "Occupation": "Mining Engineer"
+  },
+  {
+    "Occupation": "Money Broker"
+  },
+  {
+    "Occupation": "Moneylender"
+  },
+  {
+    "Occupation": "Mooring Contractor"
+  },
+  {
+    "Occupation": "Mortgage Broker"
+  },
+  {
+    "Occupation": "Mortician"
+  },
+  {
+    "Occupation": "Motor Dealer"
+  },
+  {
+    "Occupation": "Motor Engineer"
+  },
+  {
+    "Occupation": "Motor Fitter"
+  },
+  {
+    "Occupation": "Motor Mechanic"
+  },
+  {
+    "Occupation": "Motor Racing"
+  },
+  {
+    "Occupation": "Motor Trader"
+  },
+  {
+    "Occupation": "Museum Assistant"
+  },
+  {
+    "Occupation": "Museum Attendant"
+  },
+  {
+    "Occupation": "Music Teacher"
+  },
+  {
+    "Occupation": "Musician"
+  },
+  {
+    "Occupation": "Nanny"
+  },
+  {
+    "Occupation": "Navigator"
+  },
+  {
+    "Occupation": "Negotiator"
+  },
+  {
+    "Occupation": "Neurologist"
+  },
+  {
+    "Occupation": "Newsagent"
+  },
+  {
+    "Occupation": "Night Porter"
+  },
+  {
+    "Occupation": "Night Watchman"
+  },
+  {
+    "Occupation": "Nuclear Scientist"
+  },
+  {
+    "Occupation": "Nun"
+  },
+  {
+    "Occupation": "Nurse"
+  },
+  {
+    "Occupation": "Nursery Assistant"
+  },
+  {
+    "Occupation": "Nursery Nurse"
+  },
+  {
+    "Occupation": "Nursery Worker"
+  },
+  {
+    "Occupation": "Nurseryman"
+  },
+  {
+    "Occupation": "Nursing Assistant"
+  },
+  {
+    "Occupation": "Nursing Auxiliary"
+  },
+  {
+    "Occupation": "Nursing Manager"
+  },
+  {
+    "Occupation": "Nursing Sister"
+  },
+  {
+    "Occupation": "Nutritionist"
+  },
+  {
+    "Occupation": "Off Shore"
+  },
+  {
+    "Occupation": "Office Manager"
+  },
+  {
+    "Occupation": "Office Worker"
+  },
+  {
+    "Occupation": "Oil Broker"
+  },
+  {
+    "Occupation": "Oil Rig Crew"
+  },
+  {
+    "Occupation": "Opera Singer"
+  },
+  {
+    "Occupation": "Operations"
+  },
+  {
+    "Occupation": "Operative"
+  },
+  {
+    "Occupation": "Operator"
+  },
+  {
+    "Occupation": "Optical"
+  },
+  {
+    "Occupation": "Optical Advisor"
+  },
+  {
+    "Occupation": "Optical Assistant"
+  },
+  {
+    "Occupation": "Optician"
+  },
+  {
+    "Occupation": "Optometrist"
+  },
+  {
+    "Occupation": "Orchestral"
+  },
+  {
+    "Occupation": "Organiser"
+  },
+  {
+    "Occupation": "Organist"
+  },
+  {
+    "Occupation": "Ornamental"
+  },
+  {
+    "Occupation": "Ornithologist"
+  },
+  {
+    "Occupation": "Orthopaedic"
+  },
+  {
+    "Occupation": "Orthoptist"
+  },
+  {
+    "Occupation": "Osteopath"
+  },
+  {
+    "Occupation": "Outdoor Pursuits"
+  },
+  {
+    "Occupation": "Outreach Worker"
+  },
+  {
+    "Occupation": "Packaging"
+  },
+  {
+    "Occupation": "Packer"
+  },
+  {
+    "Occupation": "Paediatrician"
+  },
+  {
+    "Occupation": "Paint Consultant"
+  },
+  {
+    "Occupation": "Painter"
+  },
+  {
+    "Occupation": "Palaeobotanist"
+  },
+  {
+    "Occupation": "Palaeontologist"
+  },
+  {
+    "Occupation": "Pallet Maker"
+  },
+  {
+    "Occupation": "Panel Beater"
+  },
+  {
+    "Occupation": "Paramedic"
+  },
+  {
+    "Occupation": "Park Attendant"
+  },
+  {
+    "Occupation": "Park Keeper"
+  },
+  {
+    "Occupation": "Park Ranger"
+  },
+  {
+    "Occupation": "Partition Erector"
+  },
+  {
+    "Occupation": "Parts Man"
+  },
+  {
+    "Occupation": "Parts Manager"
+  },
+  {
+    "Occupation": "Parts Supervisor"
+  },
+  {
+    "Occupation": "Party Planner"
+  },
+  {
+    "Occupation": "Pasteuriser"
+  },
+  {
+    "Occupation": "Pastry Chef"
+  },
+  {
+    "Occupation": "Patent Agent"
+  },
+  {
+    "Occupation": "Patent Attorney"
+  },
+  {
+    "Occupation": "Pathologist"
+  },
+  {
+    "Occupation": "Patrolman"
+  },
+  {
+    "Occupation": "Pattern Cutter"
+  },
+  {
+    "Occupation": "Pattern Maker"
+  },
+  {
+    "Occupation": "Pattern Weaver"
+  },
+  {
+    "Occupation": "Pawnbroker"
+  },
+  {
+    "Occupation": "Payroll Assistant"
+  },
+  {
+    "Occupation": "Payroll Clerk"
+  },
+  {
+    "Occupation": "Payroll Manager"
+  },
+  {
+    "Occupation": "Payroll Supervisor"
+  },
+  {
+    "Occupation": "Personnel Officer"
+  },
+  {
+    "Occupation": "Pest Controller"
+  },
+  {
+    "Occupation": "Pet Minder"
+  },
+  {
+    "Occupation": "Pharmacist"
+  },
+  {
+    "Occupation": "Philatelist"
+  },
+  {
+    "Occupation": "Photographer"
+  },
+  {
+    "Occupation": "Physician"
+  },
+  {
+    "Occupation": "Physicist"
+  },
+  {
+    "Occupation": "Physiologist"
+  },
+  {
+    "Occupation": "Physiotherapist"
+  },
+  {
+    "Occupation": "Piano Teacher"
+  },
+  {
+    "Occupation": "Piano Tuner"
+  },
+  {
+    "Occupation": "Picture Editor"
+  },
+  {
+    "Occupation": "Picture Framer"
+  },
+  {
+    "Occupation": "Picture Reseacher"
+  },
+  {
+    "Occupation": "Pig Man"
+  },
+  {
+    "Occupation": "Pig Manager"
+  },
+  {
+    "Occupation": "Pilot"
+  },
+  {
+    "Occupation": "Pipe Fitter"
+  },
+  {
+    "Occupation": "Pipe Inspector"
+  },
+  {
+    "Occupation": "Pipe Insulator"
+  },
+  {
+    "Occupation": "Pipe Layer"
+  },
+  {
+    "Occupation": "Planning Engineer"
+  },
+  {
+    "Occupation": "Planning Manager"
+  },
+  {
+    "Occupation": "Planning Officer"
+  },
+  {
+    "Occupation": "Planning Technician"
+  },
+  {
+    "Occupation": "Plant Attendant"
+  },
+  {
+    "Occupation": "Plant Driver"
+  },
+  {
+    "Occupation": "Plant Engineer"
+  },
+  {
+    "Occupation": "Plant Fitter"
+  },
+  {
+    "Occupation": "Plant Manager"
+  },
+  {
+    "Occupation": "Plant Operator"
+  },
+  {
+    "Occupation": "Plasterer"
+  },
+  {
+    "Occupation": "Plastics Consultant"
+  },
+  {
+    "Occupation": "Plastics Engineer"
+  },
+  {
+    "Occupation": "Plate Layer"
+  },
+  {
+    "Occupation": "Plater"
+  },
+  {
+    "Occupation": "Playgroup Assistant"
+  },
+  {
+    "Occupation": "Playgroup Leader"
+  },
+  {
+    "Occupation": "Plumber"
+  },
+  {
+    "Occupation": "Podiatrist"
+  },
+  {
+    "Occupation": "Police Officer"
+  },
+  {
+    "Occupation": "Polisher"
+  },
+  {
+    "Occupation": "Pool Attendant"
+  },
+  {
+    "Occupation": "Pools Collector"
+  },
+  {
+    "Occupation": "Porter"
+  },
+  {
+    "Occupation": "Portfolio Manager"
+  },
+  {
+    "Occupation": "Post Sorter"
+  },
+  {
+    "Occupation": "Postman"
+  },
+  {
+    "Occupation": "Postmaster"
+  },
+  {
+    "Occupation": "Postwoman"
+  },
+  {
+    "Occupation": "Potter"
+  },
+  {
+    "Occupation": "Practice Manager"
+  },
+  {
+    "Occupation": "Preacher"
+  },
+  {
+    "Occupation": "Precision Engineer"
+  },
+  {
+    "Occupation": "Premises"
+  },
+  {
+    "Occupation": "Premises Security"
+  },
+  {
+    "Occupation": "Press Officer"
+  },
+  {
+    "Occupation": "Press Operator"
+  },
+  {
+    "Occupation": "Press Setter"
+  },
+  {
+    "Occupation": "Presser"
+  },
+  {
+    "Occupation": "Priest"
+  },
+  {
+    "Occupation": "Print Finisher"
+  },
+  {
+    "Occupation": "Printer"
+  },
+  {
+    "Occupation": "Prison Chaplain"
+  },
+  {
+    "Occupation": "Prison Officer"
+  },
+  {
+    "Occupation": "Private Investigator"
+  },
+  {
+    "Occupation": "Probation Officer"
+  },
+  {
+    "Occupation": "Probation Worker"
+  },
+  {
+    "Occupation": "Procurator Fiscal"
+  },
+  {
+    "Occupation": "Produce Supervisor"
+  },
+  {
+    "Occupation": "Producer"
+  },
+  {
+    "Occupation": "Product Installer"
+  },
+  {
+    "Occupation": "Product Manager"
+  },
+  {
+    "Occupation": "Production Engineer"
+  },
+  {
+    "Occupation": "Production Hand"
+  },
+  {
+    "Occupation": "Production Manager"
+  },
+  {
+    "Occupation": "Production Planner"
+  },
+  {
+    "Occupation": "Professional Boxer"
+  },
+  {
+    "Occupation": "Professional Racing"
+  },
+  {
+    "Occupation": "Professional Wrestler"
+  },
+  {
+    "Occupation": "Progress Chaser"
+  },
+  {
+    "Occupation": "Progress Clerk"
+  },
+  {
+    "Occupation": "Project Co-ordinator"
+  },
+  {
+    "Occupation": "Project Engineer"
+  },
+  {
+    "Occupation": "Project Leader"
+  },
+  {
+    "Occupation": "Project Manager"
+  },
+  {
+    "Occupation": "Project Worker"
+  },
+  {
+    "Occupation": "Projectionist"
+  },
+  {
+    "Occupation": "Promoter"
+  },
+  {
+    "Occupation": "Proof Reader"
+  },
+  {
+    "Occupation": "Property Buyer"
+  },
+  {
+    "Occupation": "Property Dealer"
+  },
+  {
+    "Occupation": "Property Developer"
+  },
+  {
+    "Occupation": "Property Manager"
+  },
+  {
+    "Occupation": "Property Valuer"
+  },
+  {
+    "Occupation": "Proprietor"
+  },
+  {
+    "Occupation": "Psychiatrist"
+  },
+  {
+    "Occupation": "Psychoanalyst"
+  },
+  {
+    "Occupation": "Psychologist"
+  },
+  {
+    "Occupation": "Psychotherapist"
+  },
+  {
+    "Occupation": "Public House Manager"
+  },
+  {
+    "Occupation": "Public Relations Of?cer"
+  },
+  {
+    "Occupation": "Publican"
+  },
+  {
+    "Occupation": "Publicity Manager"
+  },
+  {
+    "Occupation": "Publisher"
+  },
+  {
+    "Occupation": "Publishing Manager"
+  },
+  {
+    "Occupation": "Purchase Clerk"
+  },
+  {
+    "Occupation": "Purchase Ledger Clerk"
+  },
+  {
+    "Occupation": "Purchasing Assistant"
+  },
+  {
+    "Occupation": "Purchasing Manager"
+  },
+  {
+    "Occupation": "Purser"
+  },
+  {
+    "Occupation": "Quality Controller"
+  },
+  {
+    "Occupation": "Quality Engineer"
+  },
+  {
+    "Occupation": "Quality Inspector"
+  },
+  {
+    "Occupation": "Quality Manager"
+  },
+  {
+    "Occupation": "Quality Technician"
+  },
+  {
+    "Occupation": "Quantity Surveyor"
+  },
+  {
+    "Occupation": "Quarry Worker"
+  },
+  {
+    "Occupation": "Racehorse Groom"
+  },
+  {
+    "Occupation": "Racing Organiser"
+  },
+  {
+    "Occupation": "Radio Controller"
+  },
+  {
+    "Occupation": "Radio Director"
+  },
+  {
+    "Occupation": "Radio Engineer"
+  },
+  {
+    "Occupation": "Radio Operator"
+  },
+  {
+    "Occupation": "Radio Presenter"
+  },
+  {
+    "Occupation": "Radio Producer"
+  },
+  {
+    "Occupation": "Radiographer"
+  },
+  {
+    "Occupation": "Radiologist"
+  },
+  {
+    "Occupation": "Rally Driver"
+  },
+  {
+    "Occupation": "Receptionist"
+  },
+  {
+    "Occupation": "Recorder"
+  },
+  {
+    "Occupation": "Records Supervisor"
+  },
+  {
+    "Occupation": "Recovery Vehicle Coordinator"
+  },
+  {
+    "Occupation": "Recreational"
+  },
+  {
+    "Occupation": "Recruitment Consultant"
+  },
+  {
+    "Occupation": "Rector"
+  },
+  {
+    "Occupation": "Reflexologist"
+  },
+  {
+    "Occupation": "Refractory Engineer"
+  },
+  {
+    "Occupation": "Refrigeration Engineer"
+  },
+  {
+    "Occupation": "Refuse Collector"
+  },
+  {
+    "Occupation": "Registrar"
+  },
+  {
+    "Occupation": "Regulator"
+  },
+  {
+    "Occupation": "Relocation Agent"
+  },
+  {
+    "Occupation": "Remedial Therapist"
+  },
+  {
+    "Occupation": "Rent Collector"
+  },
+  {
+    "Occupation": "Rent Offcer"
+  },
+  {
+    "Occupation": "Repair Man"
+  },
+  {
+    "Occupation": "Repairer"
+  },
+  {
+    "Occupation": "Reporter"
+  },
+  {
+    "Occupation": "Representative"
+  },
+  {
+    "Occupation": "Reprographic Assistant"
+  },
+  {
+    "Occupation": "Research Analyst"
+  },
+  {
+    "Occupation": "Research Consultant"
+  },
+  {
+    "Occupation": "Research Director"
+  },
+  {
+    "Occupation": "Research Scientist"
+  },
+  {
+    "Occupation": "Research Technician"
+  },
+  {
+    "Occupation": "Researcher"
+  },
+  {
+    "Occupation": "Resin Caster"
+  },
+  {
+    "Occupation": "Restaurant Manager"
+  },
+  {
+    "Occupation": "Restaurateur"
+  },
+  {
+    "Occupation": "Restorer"
+  },
+  {
+    "Occupation": "Retired"
+  },
+  {
+    "Occupation": "Revenue Clerk"
+  },
+  {
+    "Occupation": "Revenue Officer"
+  },
+  {
+    "Occupation": "Riding Instructor"
+  },
+  {
+    "Occupation": "Rig Worker"
+  },
+  {
+    "Occupation": "Rigger"
+  },
+  {
+    "Occupation": "Riveter"
+  },
+  {
+    "Occupation": "Road Safety Officer"
+  },
+  {
+    "Occupation": "Road Sweeper"
+  },
+  {
+    "Occupation": "Road Worker"
+  },
+  {
+    "Occupation": "Roadworker"
+  },
+  {
+    "Occupation": "Roof Tiler"
+  },
+  {
+    "Occupation": "Roofer"
+  },
+  {
+    "Occupation": "Rose Grower"
+  },
+  {
+    "Occupation": "Royal Marine"
+  },
+  {
+    "Occupation": "Rug Maker"
+  },
+  {
+    "Occupation": "Saddler"
+  },
+  {
+    "Occupation": "Safety Officer"
+  },
+  {
+    "Occupation": "Sail Maker"
+  },
+  {
+    "Occupation": "Sales Administrator"
+  },
+  {
+    "Occupation": "Sales Assistant"
+  },
+  {
+    "Occupation": "Sales Director"
+  },
+  {
+    "Occupation": "Sales Engineer"
+  },
+  {
+    "Occupation": "Sales Executive"
+  },
+  {
+    "Occupation": "Sales Manager"
+  },
+  {
+    "Occupation": "Sales Representative"
+  },
+  {
+    "Occupation": "Sales Support"
+  },
+  {
+    "Occupation": "Salesman"
+  },
+  {
+    "Occupation": "Saleswoman"
+  },
+  {
+    "Occupation": "Sand Blaster"
+  },
+  {
+    "Occupation": "Saw Miller"
+  },
+  {
+    "Occupation": "Scaffolder"
+  },
+  {
+    "Occupation": "School Crossing"
+  },
+  {
+    "Occupation": "School Inspector"
+  },
+  {
+    "Occupation": "Scientific Officer"
+  },
+  {
+    "Occupation": "Scientist"
+  },
+  {
+    "Occupation": "Scrap Dealer"
+  },
+  {
+    "Occupation": "Screen Printer"
+  },
+  {
+    "Occupation": "Screen Writer"
+  },
+  {
+    "Occupation": "Script Writer"
+  },
+  {
+    "Occupation": "Sculptor"
+  },
+  {
+    "Occupation": "Seaman"
+  },
+  {
+    "Occupation": "Seamstress"
+  },
+  {
+    "Occupation": "Secretary"
+  },
+  {
+    "Occupation": "Security Consultant"
+  },
+  {
+    "Occupation": "Security Controller"
+  },
+  {
+    "Occupation": "Security Guard"
+  },
+  {
+    "Occupation": "Security Officer"
+  },
+  {
+    "Occupation": "Servant"
+  },
+  {
+    "Occupation": "Service Engineer"
+  },
+  {
+    "Occupation": "Service Manager"
+  },
+  {
+    "Occupation": "Share Dealer"
+  },
+  {
+    "Occupation": "Sheet Metal Worker"
+  },
+  {
+    "Occupation": "Shelf Filler"
+  },
+  {
+    "Occupation": "Shelter Warden"
+  },
+  {
+    "Occupation": "Shepherd"
+  },
+  {
+    "Occupation": "Sheriff"
+  },
+  {
+    "Occupation": "Sheriff Clerk"
+  },
+  {
+    "Occupation": "Sheriff Principal"
+  },
+  {
+    "Occupation": "Shift Controller"
+  },
+  {
+    "Occupation": "Ship Broker"
+  },
+  {
+    "Occupation": "Ship Builder"
+  },
+  {
+    "Occupation": "Shipping Clerk"
+  },
+  {
+    "Occupation": "Shipping Officer"
+  },
+  {
+    "Occupation": "Shipwright"
+  },
+  {
+    "Occupation": "Shipyard Worker"
+  },
+  {
+    "Occupation": "Shoe Maker"
+  },
+  {
+    "Occupation": "Shoe Repairer"
+  },
+  {
+    "Occupation": "Shooting Instructor"
+  },
+  {
+    "Occupation": "Shop Assistant"
+  },
+  {
+    "Occupation": "Shop Fitter"
+  },
+  {
+    "Occupation": "Shop Keeper"
+  },
+  {
+    "Occupation": "Shop Manager"
+  },
+  {
+    "Occupation": "Shop Proprietor"
+  },
+  {
+    "Occupation": "Shot Blaster"
+  },
+  {
+    "Occupation": "Show Jumper"
+  },
+  {
+    "Occupation": "Showman"
+  },
+  {
+    "Occupation": "Shunter"
+  },
+  {
+    "Occupation": "Sign Maker"
+  },
+  {
+    "Occupation": "Signalman"
+  },
+  {
+    "Occupation": "Signwriter"
+  },
+  {
+    "Occupation": "Site Agent"
+  },
+  {
+    "Occupation": "Site Engineer"
+  },
+  {
+    "Occupation": "Skipper"
+  },
+  {
+    "Occupation": "Slater"
+  },
+  {
+    "Occupation": "Slaughterman"
+  },
+  {
+    "Occupation": "Smallholder"
+  },
+  {
+    "Occupation": "Social Worker"
+  },
+  {
+    "Occupation": "Software Consultant"
+  },
+  {
+    "Occupation": "Software Engineer"
+  },
+  {
+    "Occupation": "Soldier"
+  },
+  {
+    "Occupation": "Solicitor"
+  },
+  {
+    "Occupation": "Song Writer"
+  },
+  {
+    "Occupation": "Sound Artist"
+  },
+  {
+    "Occupation": "Sound Engineer"
+  },
+  {
+    "Occupation": "Sound Technician"
+  },
+  {
+    "Occupation": "Special Constable"
+  },
+  {
+    "Occupation": "Special Needs"
+  },
+  {
+    "Occupation": "Speech Therapist"
+  },
+  {
+    "Occupation": "Sports Administrator"
+  },
+  {
+    "Occupation": "Sports Coach"
+  },
+  {
+    "Occupation": "Sports Commentator"
+  },
+  {
+    "Occupation": "Sportsman"
+  },
+  {
+    "Occupation": "Sportsperson"
+  },
+  {
+    "Occupation": "Sportswoman"
+  },
+  {
+    "Occupation": "Spring Maker"
+  },
+  {
+    "Occupation": "Stable Hand"
+  },
+  {
+    "Occupation": "Staff Nurse"
+  },
+  {
+    "Occupation": "Stage Director"
+  },
+  {
+    "Occupation": "Stage Hand"
+  },
+  {
+    "Occupation": "Stage Manager"
+  },
+  {
+    "Occupation": "Stage Mover"
+  },
+  {
+    "Occupation": "Station Manager"
+  },
+  {
+    "Occupation": "Stationer"
+  },
+  {
+    "Occupation": "Statistician"
+  },
+  {
+    "Occupation": "Steel Erector"
+  },
+  {
+    "Occupation": "Steel Worker"
+  },
+  {
+    "Occupation": "Steeplejack"
+  },
+  {
+    "Occupation": "Stenographer"
+  },
+  {
+    "Occupation": "Steward"
+  },
+  {
+    "Occupation": "Stewardess"
+  },
+  {
+    "Occupation": "Stock Controller"
+  },
+  {
+    "Occupation": "Stock Manager"
+  },
+  {
+    "Occupation": "Stockbroker"
+  },
+  {
+    "Occupation": "Stockman"
+  },
+  {
+    "Occupation": "Stocktaker"
+  },
+  {
+    "Occupation": "Stone Cutter"
+  },
+  {
+    "Occupation": "Stone Sawyer"
+  },
+  {
+    "Occupation": "Stonemason"
+  },
+  {
+    "Occupation": "Store Detective"
+  },
+  {
+    "Occupation": "Storeman"
+  },
+  {
+    "Occupation": "Storewoman"
+  },
+  {
+    "Occupation": "Street Entertainer"
+  },
+  {
+    "Occupation": "Street Trader"
+  },
+  {
+    "Occupation": "Stud Hand"
+  },
+  {
+    "Occupation": "Student"
+  },
+  {
+    "Occupation": "Student Nurse"
+  },
+  {
+    "Occupation": "Student Teacher"
+  },
+  {
+    "Occupation": "Studio Manager"
+  },
+  {
+    "Occupation": "Sub-Postmaster"
+  },
+  {
+    "Occupation": "Sub-Postmistress"
+  },
+  {
+    "Occupation": "Supervisor"
+  },
+  {
+    "Occupation": "Supply Teacher"
+  },
+  {
+    "Occupation": "Surgeon"
+  },
+  {
+    "Occupation": "Surveyor"
+  },
+  {
+    "Occupation": "Systems Analyst"
+  },
+  {
+    "Occupation": "Systems Engineer"
+  },
+  {
+    "Occupation": "Systems Manager"
+  },
+  {
+    "Occupation": "TV Editor"
+  },
+  {
+    "Occupation": "Tachograph Analyst"
+  },
+  {
+    "Occupation": "Tacker"
+  },
+  {
+    "Occupation": "Tailor"
+  },
+  {
+    "Occupation": "Tank Farm Operative"
+  },
+  {
+    "Occupation": "Tanker Driver"
+  },
+  {
+    "Occupation": "Tanner"
+  },
+  {
+    "Occupation": "Tattooist"
+  },
+  {
+    "Occupation": "Tax Advisor"
+  },
+  {
+    "Occupation": "Tax Analyst"
+  },
+  {
+    "Occupation": "Tax Assistant"
+  },
+  {
+    "Occupation": "Tax Consultant"
+  },
+  {
+    "Occupation": "Tax Inspector"
+  },
+  {
+    "Occupation": "Tax Manager"
+  },
+  {
+    "Occupation": "Tax Officer"
+  },
+  {
+    "Occupation": "Taxi Controller"
+  },
+  {
+    "Occupation": "Taxi Driver"
+  },
+  {
+    "Occupation": "Taxidermist"
+  },
+  {
+    "Occupation": "Tea Blender"
+  },
+  {
+    "Occupation": "Tea Taster"
+  },
+  {
+    "Occupation": "Teacher"
+  },
+  {
+    "Occupation": "Teachers Assistant"
+  },
+  {
+    "Occupation": "Technical Advisor"
+  },
+  {
+    "Occupation": "Technical Analyst"
+  },
+  {
+    "Occupation": "Technical Assistant"
+  },
+  {
+    "Occupation": "Technical Author"
+  },
+  {
+    "Occupation": "Technical Clerk"
+  },
+  {
+    "Occupation": "Technical Co-ordinator"
+  },
+  {
+    "Occupation": "Technical Director"
+  },
+  {
+    "Occupation": "Technical Editor"
+  },
+  {
+    "Occupation": "Technical Engineer"
+  },
+  {
+    "Occupation": "Technical Illustrator"
+  },
+  {
+    "Occupation": "Technical Instructor"
+  },
+  {
+    "Occupation": "Technical Liaison"
+  },
+  {
+    "Occupation": "Technical Manager"
+  },
+  {
+    "Occupation": "Technician"
+  },
+  {
+    "Occupation": "Telecommunication"
+  },
+  {
+    "Occupation": "Telecommunications"
+  },
+  {
+    "Occupation": "Telegraphist"
+  },
+  {
+    "Occupation": "Telemarketeer"
+  },
+  {
+    "Occupation": "Telephone Engineer"
+  },
+  {
+    "Occupation": "Telephonist"
+  },
+  {
+    "Occupation": "Telesales Person"
+  },
+  {
+    "Occupation": "Television Director"
+  },
+  {
+    "Occupation": "Television Engineer"
+  },
+  {
+    "Occupation": "Television Presenter"
+  },
+  {
+    "Occupation": "Television Producer"
+  },
+  {
+    "Occupation": "Telex Operator"
+  },
+  {
+    "Occupation": "Temperature Time"
+  },
+  {
+    "Occupation": "Tennis Coach"
+  },
+  {
+    "Occupation": "Textile Consultant"
+  },
+  {
+    "Occupation": "Textile Engineer"
+  },
+  {
+    "Occupation": "Textile Technician"
+  },
+  {
+    "Occupation": "Textile Worker"
+  },
+  {
+    "Occupation": "Thatcher"
+  },
+  {
+    "Occupation": "Theatre Manager"
+  },
+  {
+    "Occupation": "Theatre Technician"
+  },
+  {
+    "Occupation": "Theatrical Agent"
+  },
+  {
+    "Occupation": "Therapist"
+  },
+  {
+    "Occupation": "Thermal Engineer"
+  },
+  {
+    "Occupation": "Thermal Insulator"
+  },
+  {
+    "Occupation": "Ticket Agent"
+  },
+  {
+    "Occupation": "Ticket Inspector"
+  },
+  {
+    "Occupation": "Tiler"
+  },
+  {
+    "Occupation": "Timber Inspector"
+  },
+  {
+    "Occupation": "Timber Worker"
+  },
+  {
+    "Occupation": "Tobacconist"
+  },
+  {
+    "Occupation": "Toll Collector"
+  },
+  {
+    "Occupation": "Tool Maker"
+  },
+  {
+    "Occupation": "Tour Agent"
+  },
+  {
+    "Occupation": "Tour Guide"
+  },
+  {
+    "Occupation": "Town Clerk"
+  },
+  {
+    "Occupation": "Town Planner"
+  },
+  {
+    "Occupation": "Toy Maker"
+  },
+  {
+    "Occupation": "Toy Trader"
+  },
+  {
+    "Occupation": "Track Worker"
+  },
+  {
+    "Occupation": "Tractor Driver"
+  },
+  {
+    "Occupation": "Tractor Mechanic"
+  },
+  {
+    "Occupation": "Trade Mark Agent"
+  },
+  {
+    "Occupation": "Trade Union Official"
+  },
+  {
+    "Occupation": "Trading Standards"
+  },
+  {
+    "Occupation": "Traffic Warden"
+  },
+  {
+    "Occupation": "Train Driver"
+  },
+  {
+    "Occupation": "Trainee Manager"
+  },
+  {
+    "Occupation": "Training Advisor"
+  },
+  {
+    "Occupation": "Training Assistant"
+  },
+  {
+    "Occupation": "Training Co-ordinator"
+  },
+  {
+    "Occupation": "Training Consultant"
+  },
+  {
+    "Occupation": "Training Instructor"
+  },
+  {
+    "Occupation": "Training Manager"
+  },
+  {
+    "Occupation": "Training Officer"
+  },
+  {
+    "Occupation": "Transcriber"
+  },
+  {
+    "Occupation": "Translator"
+  },
+  {
+    "Occupation": "Transport Clerk"
+  },
+  {
+    "Occupation": "Transport Consultant"
+  },
+  {
+    "Occupation": "Transport Controller"
+  },
+  {
+    "Occupation": "Transport Engineer"
+  },
+  {
+    "Occupation": "Transport Manager"
+  },
+  {
+    "Occupation": "Transport Officer"
+  },
+  {
+    "Occupation": "Transport Planner"
+  },
+  {
+    "Occupation": "Travel Agent"
+  },
+  {
+    "Occupation": "Travel Clerk"
+  },
+  {
+    "Occupation": "Travel Consultant"
+  },
+  {
+    "Occupation": "Travel Courier"
+  },
+  {
+    "Occupation": "Travel Guide"
+  },
+  {
+    "Occupation": "Travel Guide Writer"
+  },
+  {
+    "Occupation": "Travel Representative"
+  },
+  {
+    "Occupation": "Travelling Showman"
+  },
+  {
+    "Occupation": "Treasurer"
+  },
+  {
+    "Occupation": "Tree Feller"
+  },
+  {
+    "Occupation": "Tree Surgeon"
+  },
+  {
+    "Occupation": "Trichologist"
+  },
+  {
+    "Occupation": "Trinity House Pilot"
+  },
+  {
+    "Occupation": "Trout Farmer"
+  },
+  {
+    "Occupation": "Tug Skipper"
+  },
+  {
+    "Occupation": "Tunneller"
+  },
+  {
+    "Occupation": "Turf Accountant"
+  },
+  {
+    "Occupation": "Turkey Farmer"
+  },
+  {
+    "Occupation": "Turner"
+  },
+  {
+    "Occupation": "Tutor"
+  },
+  {
+    "Occupation": "Typesetter"
+  },
+  {
+    "Occupation": "Typewriter Engineer"
+  },
+  {
+    "Occupation": "Typist"
+  },
+  {
+    "Occupation": "Tyre Builder"
+  },
+  {
+    "Occupation": "Tyre Fitter"
+  },
+  {
+    "Occupation": "Tyre Inspector"
+  },
+  {
+    "Occupation": "Tyre Technician"
+  },
+  {
+    "Occupation": "Undertaker"
+  },
+  {
+    "Occupation": "Underwriter"
+  },
+  {
+    "Occupation": "Upholsterer"
+  },
+  {
+    "Occupation": "Valuer"
+  },
+  {
+    "Occupation": "Valve Technician"
+  },
+  {
+    "Occupation": "Van Driver"
+  },
+  {
+    "Occupation": "Vehicle Assessor"
+  },
+  {
+    "Occupation": "Vehicle Body Worker"
+  },
+  {
+    "Occupation": "Vehicle Engineer"
+  },
+  {
+    "Occupation": "Vehicle Technician"
+  },
+  {
+    "Occupation": "Ventriloquist"
+  },
+  {
+    "Occupation": "Verger"
+  },
+  {
+    "Occupation": "Veterinary Surgeon"
+  },
+  {
+    "Occupation": "Vicar"
+  },
+  {
+    "Occupation": "Video Artist"
+  },
+  {
+    "Occupation": "Violin Maker"
+  },
+  {
+    "Occupation": "Violinist"
+  },
+  {
+    "Occupation": "Voluntary Worker"
+  },
+  {
+    "Occupation": "Wages Clerk"
+  },
+  {
+    "Occupation": "Waiter"
+  },
+  {
+    "Occupation": "Waitress"
+  },
+  {
+    "Occupation": "Warden"
+  },
+  {
+    "Occupation": "Warehouse Manager"
+  },
+  {
+    "Occupation": "Warehouseman"
+  },
+  {
+    "Occupation": "Warehousewoman"
+  },
+  {
+    "Occupation": "Watchmaker"
+  },
+  {
+    "Occupation": "Weaver"
+  },
+  {
+    "Occupation": "Weighbridge Clerk"
+  },
+  {
+    "Occupation": "Weighbridge Operator"
+  },
+  {
+    "Occupation": "Welder"
+  },
+  {
+    "Occupation": "Welfare Assistant"
+  },
+  {
+    "Occupation": "Welfare Officer"
+  },
+  {
+    "Occupation": "Welfare Rights Officer"
+  },
+  {
+    "Occupation": "Wheel Clamper"
+  },
+  {
+    "Occupation": "Wholesale Newspaper"
+  },
+  {
+    "Occupation": "Window Cleaner"
+  },
+  {
+    "Occupation": "Window Dresser"
+  },
+  {
+    "Occupation": "Windscreen Fitter"
+  },
+  {
+    "Occupation": "Wine Merchant"
+  },
+  {
+    "Occupation": "Wood Carver"
+  },
+  {
+    "Occupation": "Wood Cutter"
+  },
+  {
+    "Occupation": "Wood Worker"
+  },
+  {
+    "Occupation": "Word Processing Operator"
+  },
+  {
+    "Occupation": "Works Manager"
+  },
+  {
+    "Occupation": "Writer"
+  },
+  {
+    "Occupation": "Yacht Master"
+  },
+  {
+    "Occupation": "Yard Manager"
+  },
+  {
+    "Occupation": "Youth Hostel Warden"
+  },
+  {
+    "Occupation": "Youth Worker"
+  },
+  {
+    "Occupation": "Zoo Keeper"
+  },
+  {
+    "Occupation": "Zoo Manager"
+  },
+  {
+    "Occupation": "Zoologist"
+  }
+]
